@@ -8,4 +8,3 @@
 5. Peter Lewyckyj - <peterlew@my.yorku.ca> - 218415737
 6. Xu Nan Shen - <jshenxn@my.yorku.ca> - 218485904
 
-[Detailed Assignment Descriptions PDF](/EECS4314_Assignments_Description.pdf)
