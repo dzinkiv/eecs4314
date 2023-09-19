@@ -1,4 +1,4 @@
-# The Debeggars :man_technologist:
+# The Debeggars :technologist:
 
 ### The team members:
 1. Alain Ballen - <alain612@my.yorku.ca>
