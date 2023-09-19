@@ -1,4 +1,4 @@
-# Assignments for EECS 4314
+# The Debeggars
 
 ### The team members:
 1. Alain Ballen - <alain612@my.yorku.ca>
