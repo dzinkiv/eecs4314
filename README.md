@@ -8,3 +8,4 @@
 5. Peter Lewyckyj - <peterlew@my.yorku.ca>
 6. Xu Nan Shen - <jshenxn@my.yorku.ca>
 
+## Assignment 1 - Conceptual Architecture - Presentation
