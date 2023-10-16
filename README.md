@@ -9,3 +9,4 @@
 6. Xu Nan Shen - <jshenxn@my.yorku.ca>
 
 ## Assignment 1 - Conceptual Architecture - Presentation
+[Conceptual Architecture Presentation pdf](/Conceptual_Architecture_Presentation_(Debeggars).pdf)
