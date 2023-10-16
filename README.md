@@ -9,4 +9,4 @@
 6. Xu Nan Shen - <jshenxn@my.yorku.ca>
 
 ## Assignment 1 - Conceptual Architecture - Presentation
-[Presentation - Google Slides]([https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing])
+[Presentation - Google Slides](https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing)
