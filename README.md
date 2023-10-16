@@ -10,4 +10,4 @@
 
 ## Assignment 1 - Conceptual Architecture - Presentation
 [Conceptual Architecture Presentation pdf](/Conceptual-Architecture-Presentation-(Debeggars).pdf)
-[Presentation - Google Slides]([https://github.com](https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing)https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing)
+[Presentation - Google Slides]([https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing])
