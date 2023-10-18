@@ -8,5 +8,8 @@
 5. Peter Lewyckyj - <peterlew@my.yorku.ca>
 6. Xu Nan Shen - <jshenxn@my.yorku.ca>
 
-## Assignment 1 - Conceptual Architecture - Presentation
-[Presentation - Google Slides](https://docs.google.com/presentation/d/11lFOwYFlJZ_FJkNCPLy7FtYN2fSNOHvpnXK_t4dfV5o/edit?usp=sharing)
+## Assignment 1 - Conceptual Architecture
+### Presentation
+[Conceptual Architecture Presentation](/Assignment-1/Conceptual-Architecture-Presentation-(Debeggars).pdf)
+### Report
+[Conceptual Architecture Report](/Assignment-1/Conceptual-Architecture-Report-(Debeggars).pdf)
