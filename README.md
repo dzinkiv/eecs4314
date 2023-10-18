@@ -10,4 +10,5 @@
 
 ### Assignment 1 - Conceptual Architecture
 * [Conceptual Architecture Presentation](/Conceptual-Architecture-Presentation-(Debeggars).pdf)
+* <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Presentation-(Debeggars).pdf" target="_blank">Conceptual Architecture Presentation</a>
 * [Conceptual Architecture Report](/Conceptual-Architecture-Report-(Debeggars).pdf)
