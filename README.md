@@ -9,5 +9,5 @@
 6. Xu Nan Shen - <jshenxn@my.yorku.ca>
 
 ### Assignment 1 - Conceptual Architecture
-* [Conceptual Architecture Presentation]<a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Presentation-(Debeggars).pdf" target="_blank">Conceptual Architecture Presentation</a>
-* [Conceptual Architecture Report](/Conceptual-Architecture-Report-(Debeggars).pdf)
+* <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Presentation-(Debeggars).pdf" target="_blank">Conceptual Architecture Presentation</a>
+* <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Report-(Debeggars).pdf" target="_blank">Conceptual Architecture Report</a>
