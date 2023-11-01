@@ -11,3 +11,6 @@
 ### Assignment 1 - Conceptual Architecture
 * <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Presentation-(Debeggars).pdf" target="_blank">Conceptual Architecture Presentation</a>
 * <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Report-(Debeggars).pdf" target="_blank">Conceptual Architecture Report</a>
+
+### Assignment 2 - Concrete Architecture
+* <a href="https://dzinkiv.github.io/eecs4314/Concrete-Architecture-Presentation-(Debeggars).pdf" target="_blank">Concrete Architecture Presentation</a>
