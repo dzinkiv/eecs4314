@@ -1,6 +1,6 @@
 # The Debeggars
 
-### The team members:
+### Assignment 0 - Team members
 1. Alain Ballen - <alain612@my.yorku.ca>
 2. Arjun Kaura - <arjunka@my.yorku.ca>
 3. Davyd Zinkiv - <dzinkiv@my.yorku.ca>
