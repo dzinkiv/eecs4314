@@ -13,4 +13,6 @@
 * <a href="https://dzinkiv.github.io/eecs4314/Conceptual-Architecture-Report-(Debeggars).pdf" target="_blank">Conceptual Architecture Report</a>
 
 ### Assignment 2 - Concrete Architecture
+* [Conctrete Architecture Presentation](https://docs.google.com/presentation/d/1D2jRzQpySvybB4Lm9j_hipoY5t9i8T2jC-XJNV3zM2c/edit?usp=sharing)
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-2/Concrete-Architecture-Presentation-(Debeggars).pdf" target="_blank">Concrete Architecture Presentation</a>
+
