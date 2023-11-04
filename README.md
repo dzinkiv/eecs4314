@@ -14,4 +14,4 @@
 
 ### Assignment 2 - Concrete Architecture
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-2/Concrete-Architecture-Presentation-(Debeggars).pdf" target="_blank">Concrete Architecture Presentation</a>
-* Concrete Architecture Report
+* <a href="https://dzinkiv.github.io/eecs4314/Assignment-2/Concrete-Architecture-Report-(Debeggars).pdf" target="_blank">Concrete Architecture Report</a>
