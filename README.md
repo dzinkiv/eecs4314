@@ -18,6 +18,6 @@
 
 ### Assignment 3 - Discrepancy Analysis
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-3/Discrepancy-Analysis-Presentation-(Debeggars).pdf" target="_blank">Discrepancy Analysis Presentation</a>
-* Discrepancy Analysis Report
+* <a href="https://dzinkiv.github.io/eecs4314/Assignment-3/Discrepancy-Analysis-Report-(Debeggars).pdf" target="_blank">Discrepancy Analysis Report</a>
 
 
