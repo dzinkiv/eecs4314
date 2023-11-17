@@ -17,5 +17,7 @@
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-2/Concrete-Architecture-Report-(Debeggars).pdf" target="_blank">Concrete Architecture Report</a>
 
 ### Assignment 3 - Discrepancy Analysis
-* <a href="https://docs.google.com/presentation/d/1924PSGRaSdi0XVSFOKbPurDwhUn3nyedygZ16VOADh0/edit?usp=sharing" target="_blank">Discrepancy Analysis Presentation</a>
+* <a href="https://dzinkiv.github.io/eecs4314/Assignment-3/Discrepancy-Analysis-Presentation-(Debeggars).pdf" target="_blank">Discrepancy Analysis Presentation</a>
 * Discrepancy Analysis Report
+
+
