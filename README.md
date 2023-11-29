@@ -20,4 +20,5 @@
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-3/Discrepancy-Analysis-Presentation-(Debeggars).pdf" target="_blank">Discrepancy Analysis Presentation</a>
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-3/Discrepancy-Analysis-Report-(Debeggars).pdf" target="_blank">Discrepancy Analysis Report</a>
 
-
+### Assignment 4
+* <a href="https://docs.google.com/presentation/d/1QTOryEHxKiFNeDhk92vTwnEo0P_IAP5ZW0RipCIKdz4/edit?usp=sharing" target="_blank">Presentation</a>
