@@ -22,4 +22,4 @@
 
 ### Assignment 4 - Dependency Extraction
 * <a href="https://dzinkiv.github.io/eecs4314/Assignment-4/Dependancy-Extraction-Presentation-(Debeggars).pdf" target="_blank">Dependency Extraction Presentation</a>
-* Dependency Extraction Report
+* <a href="https://dzinkiv.github.io/eecs4314/Assignment-4/Dependency-Estraction-Report-(Debeggars).pdf" target="_blank">Dependency Extraction Report</a> 
