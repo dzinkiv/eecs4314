@@ -1,0 +1,3350 @@
+jdep unique Entities(all): SeekRequest.java
+SubtaskID.java
+MemoryShareScope.java
+InputChannelRecoveredStateHandler.java
+ReadRequest.java
+ChannelStateByteBuffer.java
+This0AccessFinder.java
+BufferReadRequest.java
+SubtaskRegisterRequest.java
+EncodingFormat (not found);.java
+CheckpointAbortRequest.java
+UpstreamRecoveryTrackerImpl.java
+EnvironmentProvider.java
+ResolvedCatalogTable (not found);.java
+FileSegmentReadRequest.java
+CheckpointStartRequest.java
+SampledIterator.java
+SerializationFormatFactory (not found);.java
+CheckpointInProgressRequestState.java
+Stati.java
+CheckpointInProgressRequest.java
+DynamicTableSink (not found);.java
+ResultSubpartitionRecoveredStateHandler.java
+ChannelStateChunkReader.java
+WriteRequest.java
+HistoryServerStati.java
+ChannelStateSerializerImpl.java
+BashJavaUtils (not found);.java
+DynamicTableSinkFactory (not found);.java
+SubtaskReleaseRequest.java
+DynamicTableFactory (not found);.java
+FactoryUtil (not found);.java
+BufferWriteRequest.java
+SegmentWriteRequest.java
+SegmentReadRequest.java
+ResolvedSchema (not found);.java
+RowData (not found);.java
+DataType (not found);.java
+
+U unique dependencies: 
+Key: RocksDBSharedResourcesFactory.java
+Values:
+MemoryManager.java
+RocksDBSharedResources.java
+Configuration.java
+TaskManagerRuntimeInfo.java
+RocksDBOptions.java
+Key: BulkPartialSolutionPlanNode.java
+Values:
+LocalStrategy.java
+TempMode.java
+Key: LogicalTypeParser.java
+Values:
+LogicalTypeJsonDeserializer.java
+Key: StateAssignmentOperationTest.java
+Values:
+StateHandleDummyUtil.java
+TaskStateSnapshot.java
+StateAssignmentOperation.java
+OperatorSubtaskState.java
+JobManagerTaskRestore.java
+OperatorState.java
+AbstractID.java
+StateObjectCollection.java
+InflightDataRescalingDescriptor.java
+FullyFinishedOperatorState.java
+RoundRobinOperatorStateRepartitioner.java
+OperatorStreamStateHandleTest.java
+InflightDataRescalingDescriptorUtil.java
+Preconditions.java
+Key: pip_test_code.py
+Values:
+__init__.py
+shell.py
+expressions.py
+table_descriptor.py
+schema.py
+Key: TypeTransformationsTest.java
+Values:
+AbstractDataType.java
+TypeTransformations.java
+Key: ExecutionEnvironment.java
+Values:
+ConfigOption.java
+Key: AzureBlobStorageFSFactory.java
+Values:
+AbstractAzureFSFactory.java
+Key: HBaseSinkFunction.java
+Values:
+HBaseMutationConverter.java
+Key: JarIdPathParameterTest.java
+Values:
+JarIdPathParameter.java
+Key: ScalaCaseClassSerializerSnapshot.java
+Values:
+Preconditions.java
+Key: WatermarkStrategyWithIdleness.java
+Values:
+WatermarkStrategy.java
+TimestampAssigner.java
+WatermarkGenerator.java
+WatermarkAlignmentParams.java
+Key: DeclarativeSlotManager.java
+Values:
+SlotManagerException.java
+PendingTaskManagerSlot.java
+SlotStatusUpdateListener.java
+SlotManager.java
+SlotState.java
+AbstractMetricGroup.java
+AbstractID.java
+Key: ChangelogStreamHandleReaderWithCache.java
+Values:
+ChangelogStreamWrapper.java
+FileSystem.java
+FsStateChangelogOptions.java
+ChangelogStreamHandleReader.java
+Key: TestingDeclarativeSlotPoolBuilder.java
+Values:
+PhysicalSlot.java
+TestingDeclarativeSlotPool.java
+SlotInfoWithUtilization.java
+Key: SlideWithSizeAndSlideOnTime.java
+Values:
+SlideWithSizeAndSlideOnTimeWithAlias.java
+Key: VoidHistoryServerArchivist.java
+Values:
+HistoryServerArchivist.java
+Key: YARNHighAvailabilityITCase.java
+Values:
+YarnTaskExecutorRunner.java
+YarnClusterDescriptor.java
+Preconditions.java
+MessageParameter.java
+JobMessageParameters.java
+ClusterClientProvider.java
+Path.java
+Key: ParquetFileSystemStatisticsReportTest.java
+Values:
+TableResult.java
+ParquetFormatStatisticsReportTest.java
+StatisticsReportTestBase.java
+Table.java
+TableEnvironment.java
+ResolvedSchema.java
+Key: PerJobCheckpointRecoveryFactory.java
+Values:
+CheckpointIDCounter.java
+StandaloneCheckpointIDCounter.java
+CompletedCheckpointStore.java
+CheckpointRecoveryFactory.java
+Key: InterceptingTaskMetricGroup.java
+Values:
+AbstractMetricGroup.java
+Key: ProctimeAttribute.java
+Values:
+AbstractWindowProperty.java
+Key: process_json_data_with_udf.py
+Values:
+expressions.py
+table_descriptor.py
+schema.py
+types.py
+table_environment.py
+json.py
+udf.py
+environment_settings.py
+__init__.py
+Key: EndpointNotStartedException.java
+Values:
+RpcException.java
+Key: FileSystemTableSource.java
+Values:
+FileInfoExtractorBulkFormat.java
+DeserializationSchemaAdapter.java
+DynamicTableSource.java
+AbstractDataType.java
+AbstractFileSource.java
+AbstractFileSystemTable.java
+Format.java
+CollectionUtil.java
+Configuration.java
+ProjectingBulkFormat.java
+Key: SsgNetworkMemoryCalculationUtils.java
+Values:
+ExecutionVertexInputInfo.java
+InternalExecutionGraphAccessor.java
+Preconditions.java
+AbstractID.java
+Key: Tuple17.java
+Values:
+Tuple.java
+Key: AllocatedSlot.java
+Values:
+PhysicalSlot.java
+AbstractID.java
+Preconditions.java
+Key: FractionalTypeInfo.java
+Values:
+Preconditions.java
+NumericTypeInfo.java
+Key: BigIntType.java
+Values:
+LogicalTypeVisitor.java
+LogicalType.java
+Key: KryoSerializerSnapshotData.java
+Values:
+Preconditions.java
+ExecutionConfig.java
+LinkedOptionalMapSerializer.java
+Key: NextTransactionalIdHintSerializerTest.java
+Values:
+FlinkKafkaProducer.java
+Key: TaskExecutorResourceUtils.java
+Values:
+Resource.java
+Key: InternalSinkWriterMetricGroup.java
+Values:
+ProxyMetricGroup.java
+Key: KafkaWriter.java
+Values:
+KafkaCommitter.java
+IOUtils.java
+OperatorIOMetricGroup.java
+TransactionAborter.java
+DefaultKafkaSinkContext.java
+KafkaRecordSerializationSchema.java
+Preconditions.java
+OperatorMetricGroup.java
+SinkWriter.java
+Key: PartitionWriterTest.java
+Values:
+PartitionWriter.java
+SingleDirectoryWriter.java
+FileSystemFactory.java
+PartitionComputer.java
+OutputFormatFactory.java
+PartitionTempFileManager.java
+GroupedPartitionWriter.java
+DynamicPartitionWriter.java
+Key: RetryableAsyncLookupFunctionDelegatorTest.java
+Values:
+StringData.java
+UserDefinedFunction.java
+DataType.java
+Key: SumAggFunction.java
+Values:
+ExpressionBuilder.java
+ApiExpressionUtils.java
+Key: timerservice_impl.py
+Values:
+timerservice.py
+types.py
+io.py
+__init__.py
+Key: AsyncIOExample.java
+Values:
+AbstractParameterTool.java
+Key: HeapPriorityQueueTest.java
+Values:
+HeapPriorityQueue.java
+AbstractHeapPriorityQueue.java
+Key: FractionalTypeInfoTest.java
+Values:
+FractionalTypeInfo.java
+BasicTypeInfo.java
+Key: LongValue.java
+Values:
+NormalizableKey.java
+CopyableValue.java
+ResettableValue.java
+Key: CanalJsonFormatFactoryTest.java
+Values:
+FlinkAssertions.java
+EncodingFormat.java
+DecodingFormat.java
+FactoryMocks.java
+CanalJsonSerializationSchema.java
+CanalJsonDeserializationSchema.java
+Key: TupleComparatorTTT3Test.java
+Values:
+TupleSerializer.java
+TupleComparator.java
+Key: BatchCompactCoordinatorTest.java
+Values:
+CompactMessages.java
+BatchCompactCoordinator.java
+AbstractStreamOperatorTestHarness.java
+Key: IntParserTest.java
+Values:
+FieldParser.java
+ParserTestBase.java
+IntParser.java
+Key: StatisticsReportTestBase.java
+Values:
+TimestampData.java
+Configuration.java
+TableConfig.java
+Key: test_stream_execution_environment_completeness.py
+Values:
+__init__.py
+test_case_utils.py
+stream_execution_environment.py
+Key: GzipInflaterInputStreamFactory.java
+Values:
+InflaterInputStreamFactory.java
+Key: DefaultSchedulingPipelinedRegionTest.java
+Values:
+DefaultExecutionVertex.java
+DefaultResultPartition.java
+DefaultSchedulingPipelinedRegion.java
+DefaultExecutionTopology.java
+Key: AggregateFunctionDefinition.java
+Values:
+FunctionRequirement.java
+FunctionDefinition.java
+FunctionKind.java
+AggregateFunction.java
+Key: SqlDateParserTest.java
+Values:
+SqlDateParser.java
+FieldParser.java
+ParserTestBase.java
+Key: MultipleJoinsWithSolutionSetCompilerTest.java
+Values:
+PlanNode.java
+Operator.java
+JoinOperator.java
+Channel.java
+UnsortedGrouping.java
+Key: PluginUtils.java
+Values:
+PluginManager.java
+DirectoryBasedPluginFinder.java
+DefaultPluginManager.java
+Key: ShortSummaryAggregatorTest.java
+Values:
+ShortSummaryAggregator.java
+AggregateCombineHarness.java
+ColumnSummary.java
+Key: CollectDynamicSink.java
+Values:
+StreamExecutionEnvironment.java
+SimpleOperatorFactory.java
+Key: RowTimeWindowDeduplicateProcessor.java
+Values:
+TimeWindowUtil.java
+KeyedStateBackend.java
+Key: test_state_backend.py
+Values:
+test_case_utils.py
+pyflink_gateway_server.py
+__init__.py
+java_utils.py
+state_backend.py
+java_gateway.py
+Key: SortingThread.java
+Values:
+StageRunner.java
+InMemorySorter.java
+CircularElement.java
+QuickSort.java
+ThreadBase.java
+IndexedSortable.java
+Key: ContextEnvironment.java
+Values:
+AbstractID.java
+Preconditions.java
+Key: CheckpointStorageFactory.java
+Values:
+CheckpointStorage.java
+Key: KafkaCommittableSerializerTest.java
+Values:
+KafkaCommittableSerializer.java
+KafkaCommittable.java
+Key: StreamTableSinkFactory.java
+Values:
+TableSinkFactory.java
+Key: test_set_operation.py
+Values:
+environment_settings.py
+table_environment.py
+test_case_utils.py
+__init__.py
+Key: BatchCoBroadcastWithKeyedOperator.java
+Values:
+Preconditions.java
+CoBroadcastWithKeyedOperator.java
+Key: TypeInfoFactoryTest.java
+Values:
+TupleTypeInfoBase.java
+GenericTypeInfo.java
+PojoTypeInfo.java
+TupleTypeInfo.java
+BasicTypeInfo.java
+EitherTypeInfo.java
+TypeExtractor.java
+Key: NonReusingBlockResettableIteratorTest.java
+Values:
+AbstractBlockResettableIterator.java
+NonReusingBlockResettableIterator.java
+Key: MergingSharedSlotProfileRetrieverFactory.java
+Values:
+SharedSlotProfileRetriever.java
+Key: EvictingWindowOperatorTest.java
+Values:
+AbstractStreamOperatorTestHarness.java
+AbstractRichFunction.java
+EvictingWindowOperator.java
+Key: KubernetesResourceManagerDriverTest.java
+Values:
+TestingResourceEventHandler.java
+KubernetesResource.java
+CommonProcessMemorySpec.java
+KubernetesWorkerNode.java
+Configuration.java
+MemorySize.java
+Resource.java
+KubernetesResourceManagerDriver.java
+Key: MultiInputTestOperatorFactory.java
+Values:
+TestDataElement.java
+MultiInputTestOperator.java
+Key: ShuffleMasterTest.java
+Values:
+JobShuffleContext.java
+ShuffleMasterContext.java
+ShuffleServiceOptions.java
+ShuffleMaster.java
+NettyShuffleMaster.java
+NettyShuffleDescriptor.java
+RestartStrategies.java
+Key: AbstractStreamArrowPythonBoundedRangeOperator.java
+Values:
+StreamRecordRowDataWrappingCollector.java
+ValueState.java
+ArrowSerializer.java
+AbstractArrowPythonAggregateFunctionOperator.java
+JoinedRowData.java
+State.java
+TimerService.java
+AbstractStreamArrowPythonOverWindowAggregateFunctionOperator.java
+MapState.java
+ByteArrayInputStreamWithPos.java
+AbstractStatelessFunctionOperator.java
+Key: test_sql.py
+Values:
+explain_detail.py
+result_kind.py
+source_sink_utils.py
+__init__.py
+test_case_utils.py
+find_flink_home.py
+java_gateway.py
+expressions.py
+Key: PartitionTimeExtractor.java
+Values:
+DefaultPartTimeExtractor.java
+Key: SnapshotDirectoryTest.java
+Values:
+SnapshotDirectory.java
+DirectoryStateHandle.java
+Key: NettyMessageClientDecoderDelegateTest.java
+Values:
+NettyMessageClientDecoderDelegate.java
+NettyTestUtil.java
+InputChannelTestUtils.java
+AbstractID.java
+NettyMessage.java
+CreditBasedPartitionRequestClientHandler.java
+NettyBufferPool.java
+Key: JsonNodeDeserializationSchemaTest.java
+Values:
+JsonNodeDeserializationSchema.java
+JsonDeserializationSchema.java
+Key: StreamIterationHeadTest.java
+Values:
+StreamConfig.java
+Key: BooleanValueSerializer.java
+Values:
+TypeSerializerSingleton.java
+Key: ReadingMetadataSpec.java
+Values:
+Preconditions.java
+SourceAbilitySpecBase.java
+Key: SubtasksTimesInfoTest.java
+Values:
+SubtasksTimesInfo.java
+RestResponseMarshallingTestBase.java
+Key: DropTableOperation.java
+Values:
+DropOperation.java
+Key: FlinkKafkaConsumerBase.java
+Values:
+Preconditions.java
+State.java
+KafkaConsumerMetricConstants.java
+KafkaDeserializationSchema.java
+RuntimeContext.java
+ManagedSnapshotContext.java
+AbstractRichFunction.java
+AppendingState.java
+SourceFunction.java
+ManagedInitializationContext.java
+Key: NonReusingBuildSecondHashJoinIterator.java
+Values:
+HashJoinIteratorBase.java
+MutableHashTable.java
+Key: AvroFileFormatFactory.java
+Values:
+AbstractAvroBulkFormat.java
+AvroBuilder.java
+AvroFormatOptions.java
+LogicalType.java
+Key: LocalTransportException.java
+Values:
+TransportException.java
+Key: InnerJoinOperatorBase.java
+Values:
+OperatorInformation.java
+DualInputOperator.java
+Operator.java
+JoinOperatorBase.java
+AbstractUdfOperator.java
+Key: StreamOperatorParameters.java
+Values:
+Output.java
+Key: IntValueParser.java
+Values:
+FieldParser.java
+Key: TaskManagerFileMessageParameters.java
+Values:
+TaskManagerMessageParameters.java
+Key: InputFormatTableSource.java
+Values:
+TypeConversions.java
+TableSource.java
+StreamTableSource.java
+Key: OperatorStateInputFormat.java
+Values:
+StreamOperatorContextBuilder.java
+StateAssignmentOperation.java
+AbstractAutoCloseableRegistry.java
+Key: QueuingCallback.java
+Values:
+RequestDoneCallback.java
+Key: DynamicSourceUtils.java
+Values:
+ObjectIdentifier.java
+Expression.java
+RelBuilder.java
+ConfigOption.java
+LogicalTypeCasts.java
+
+
+
+
+
+I unique dependencies: 
+Key: TaskCheckpointStatistics.java
+Values:
+JsonCreator.java
+JsonProperty.java
+Key: WritingMetadataSpec.java
+Values:
+JsonCreator.java
+JsonIgnoreProperties.java
+JsonProperty.java
+JsonTypeName.java
+Key: TestValuesTableFactory.java
+Values:
+AppendingOutputFormat.java
+AppendingSinkFunction.java
+KeyedUpsertingSinkFunction.java
+RetractingSinkFunction.java
+TestNoLookupUntilNthAccessAsyncLookupFunction.java
+TestNoLookupUntilNthAccessLookupFunction.java
+JavaScalaConversionUtil.java
+Key: KvStateServerHandlerTest.java
+Values:
+ChannelHandler.java
+LengthFieldBasedFrameDecoder.java
+Key: Buffer.java
+Values:
+ByteBuf.java
+Key: AbstractStatelessFunctionOperator.java
+Values:
+FlinkFnApi.java
+Key: SourceContextWatermarkOutputAdapter.java
+Values:
+SourceContext.java
+Key: StreamExecDropUpdateBefore.java
+Values:
+JsonCreator.java
+JsonProperty.java
+Key: StreamExecIntervalJoin.java
+Values:
+JsonCreator.java
+JsonProperty.java
+Key: StreamPhysicalPythonGroupTableAggregateRule.java
+Values:
+StreamPhysicalPythonGroupTableAggregate.java
+JavaScalaConversionUtil.java
+Key: WindowingStrategy.java
+Values:
+JsonIgnore.java
+JsonProperty.java
+JsonSubTypes.java
+Key: PojoSerializerSnapshot.java
+Values:
+IntermediateCompatibilityResult.java
+Key: BatchExecPythonGroupWindowAggregate.java
+Values:
+CodeGeneratorContext.java
+Key: ExpressionConverter.java
+Values:
+RexFieldVariable.java
+Key: SlotInfo.java
+Values:
+JsonCreator.java
+JsonIgnore.java
+JsonProperty.java
+JsonDeserialize.java
+JsonSerialize.java
+Key: TemporalJoinJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: HiveTableSink.java
+Values:
+BucketsBuilder.java
+Key: CompileUtils.java
+Values:
+Cache.java
+Key: CompactPartition.java
+Values:
+JsonDeserialize.java
+JsonSerialize.java
+StdDeserializer.java
+StdSerializer.java
+Key: IteratorWrappingTestSingleInputGate.java
+Values:
+BufferAndAvailability.java
+Key: InputOutputFormatVertex.java
+Values:
+FinalizationContext.java
+Key: HsDataView.java
+Values:
+DataType.java
+BufferAndBacklog.java
+Key: DiscardRecordableStateChangeUploader.java
+Values:
+UploadTask.java
+Key: FunctionITCase.java
+Values:
+BatchTestBase.java
+StreamingTestBase.java
+Key: LocalRecoverable.java
+Values:
+CommitRecoverable.java
+ResumeRecoverable.java
+Key: MergeTableLikeUtilTest.java
+Values:
+SqlComputedColumn.java
+SqlMetadataColumn.java
+SqlRegularColumn.java
+SqlTableLikeOption.java
+Key: RelTimeIndicatorConverter.java
+Values:
+FlinkLogicalDistribution.java
+FlinkLogicalExpand.java
+FlinkLogicalIntersect.java
+FlinkLogicalLegacySink.java
+FlinkLogicalMinus.java
+FlinkLogicalOverAggregate.java
+FlinkLogicalRank.java
+FlinkLogicalScriptTransform.java
+FlinkLogicalSink.java
+FlinkLogicalSnapshot.java
+FlinkLogicalSort.java
+FlinkLogicalUnion.java
+FlinkLogicalWatermarkAssigner.java
+TimeIndicatorRelDataType.java
+Key: SourceOperatorTestHarness.java
+Values:
+DataOutput.java
+Key: SqlCreateTable.java
+Values:
+SqlRegularColumn.java
+Key: OrcFileSystemITCase.java
+Values:
+RowDataVectorizer.java
+OrcBulkWriterFactory.java
+StreamingFileSink.java
+StreamSink.java
+OneInputStreamOperatorTestHarness.java
+TableResult.java
+GenericArrayData.java
+GenericMapData.java
+GenericRowData.java
+RowData.java
+StringData.java
+TimestampData.java
+BinaryStringData.java
+BatchFileSystemITCaseBase.java
+ArrayType.java
+IntType.java
+LogicalType.java
+MapType.java
+RowType.java
+TimestampType.java
+VarCharType.java
+Row.java
+CollectionUtil.java
+Key: JobIdsWithStatusesOverviewHeaders.java
+Values:
+HttpResponseStatus.java
+Key: InputProperty.java
+Values:
+JsonCreator.java
+JsonIgnoreProperties.java
+JsonProperty.java
+Key: ClientCoordinationHeaders.java
+Values:
+HttpResponseStatus.java
+Key: OpenSessionResponseBody.java
+Values:
+JsonCreator.java
+JsonProperty.java
+Key: PrintConnectorITCase.java
+Values:
+StreamingTestBase.java
+Key: AbstractStreamOperatorV2.java
+Values:
+CheckpointedStreamOperator.java
+Key: RocksDBStateDownloader.java
+Values:
+HandleAndLocalPath.java
+Key: DynamicSourceUtils.java
+Values:
+RowField.java
+Key: SourceAbilitySpec.java
+Values:
+JsonIgnore.java
+JsonSubTypes.java
+Key: CancelPartitionRequestTest.java
+Values:
+BufferAndBacklog.java
+Key: DefaultExecutionGraph.java
+Values:
+FinalizeOnMasterContext.java
+ConjunctFuture.java
+Key: UnionJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: LogicalWindowJsonSerializer.java
+Values:
+StdSerializer.java
+Key: SemanticPropUtil.java
+Values:
+FlatFieldDescriptor.java
+ForwardedFields.java
+ForwardedFieldsFirst.java
+ForwardedFieldsSecond.java
+NonForwardedFields.java
+NonForwardedFieldsFirst.java
+NonForwardedFieldsSecond.java
+ReadFields.java
+ReadFieldsFirst.java
+ReadFieldsSecond.java
+Key: PipelineErrorHandler.java
+Values:
+ChannelHandler.java
+SimpleChannelInboundHandler.java
+Key: CheckpointStatisticDetailsHeaders.java
+Values:
+HttpResponseStatus.java
+Key: DumpCompiledPlanTest.java
+Values:
+JsonFactory.java
+JsonParser.java
+Key: IncrementalAggregateJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: FetchResultsResponseBody.java
+Values:
+JsonDeserialize.java
+JsonSerialize.java
+Key: EmbeddedPythonProcessOperator.java
+Values:
+FlinkFnApi.java
+Key: TestProcessBuilder.java
+Values:
+PipeForwarder.java
+Key: GroupAggregateJsonPlanITCase.java
+Values:
+VarSum1AggFunction.java
+JavaScalaConversionUtil.java
+Key: TupleGenerator.java
+Values:
+Public.java
+StringUtils.java
+Key: NonSpanningWrapper.java
+Values:
+DeserializationResult.java
+Key: RowCsvInputFormat.java
+Values:
+MappingIterator.java
+Key: TemporalTableSourceSpec.java
+Values:
+JsonCreator.java
+JsonIgnore.java
+JsonIgnoreProperties.java
+JsonProperty.java
+Key: ResolvedCatalogTableJsonDeserializer.java
+Values:
+StdDeserializer.java
+Key: JoinJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: ChangelogKeyedStateBackend.java
+Values:
+MaterializationTarget.java
+Key: HiveTemporalJoinITCase.java
+Values:
+TableTestBase.java
+Key: RouteResult.java
+Values:
+HttpMethod.java
+Key: TtlIncrementalCleanup.java
+Values:
+StateIncrementalVisitor.java
+Key: TaskExecutorMemoryConfiguration.java
+Values:
+JsonCreator.java
+JsonInclude.java
+JsonProperty.java
+Key: DeduplicationJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: ProjectWatermarkAssignerTransposeRuleTest.java
+Values:
+StreamOptimizeContext.java
+JavaFunc5.java
+TableTestBase.java
+Key: HsSpillingStrategyUtils.java
+Values:
+PeekingIterator.java
+Key: TaskDeploymentDescriptorBuilder.java
+Values:
+MaybeOffloaded.java
+Key: AbstractJarPlanHeaders.java
+Values:
+HttpResponseStatus.java
+Key: PushFilterIntoTableSourceScanRuleTest.java
+Values:
+BatchOptimizeContext.java
+BatchTableTestUtil.java
+Key: ValuesITCase.java
+Values:
+StreamingTestBase.java
+Key: KMeans.java
+Values:
+ForwardedFields.java
+Key: JobExecutionResultResponseBody.java
+Values:
+JsonCreator.java
+JsonProperty.java
+JsonDeserialize.java
+JsonSerialize.java
+Key: ZooKeeperLeaderElectionConnectionHandlingTest.java
+Values:
+ConnectionStateListener.java
+Key: GroupCombineOperator.java
+Values:
+SelectorFunctionKeys.java
+Key: ResultInfoSerializer.java
+Values:
+JsonNode.java
+StdSerializer.java
+Key: PreviewPlanDumpTest.java
+Values:
+JsonFactory.java
+JsonParser.java
+Key: IntegerFileSinkTestDataUtils.java
+Values:
+Decoder.java
+Key: ExecNodeMetadataUtilTest.java
+Values:
+JsonCreator.java
+Key: LegacyTableFactory.java
+Values:
+TestingAppendTableSink.java
+TestTableSource.java
+Key: DSeries.java
+Values:
+JsonGetter.java
+Key: JobsOverviewHeaders.java
+Values:
+HttpResponseStatus.java
+Key: JoinOperatorSetsBase.java
+Values:
+EquiJoin.java
+Key: RedirectingSslHandler.java
+Values:
+ChannelInboundHandlerAdapter.java
+ByteToMessageDecoder.java
+HttpServerCodec.java
+Key: StreamExecPythonCalc.java
+Values:
+JsonCreator.java
+JsonProperty.java
+Key: AvroFilesystemStreamITCase.java
+Values:
+FsStreamingSinkITCaseBase.java
+Key: HsSubpartitionMemoryDataManagerTest.java
+Values:
+BufferAndBacklog.java
+Key: DynamicSinkUtils.java
+Values:
+RowField.java
+Key: LimitJsonPlanTest.java
+Values:
+TableTestBase.java
+Key: AggregatedMetricsResponseBody.java
+Values:
+JsonIgnore.java
+TypeReference.java
+JsonDeserialize.java
+JsonSerialize.java
+StdDeserializer.java
+StdSerializer.java
+Key: ConstantRankRange.java
+Values:
+JsonCreator.java
+JsonIgnore.java
+JsonIgnoreProperties.java
+JsonProperty.java
+JsonTypeName.java
+Key: PushLimitIntoTableSourceScanRuleTest.java
+Values:
+BatchOptimizeContext.java
+Key: JsonPlanEdge.java
+Values:
+JsonCreator.java
+JsonIgnoreProperties.java
+JsonProperty.java
+JsonDeserialize.java
+JsonSerialize.java
+Key: WindowProperty.java
+Values:
+JsonIgnore.java
+JsonSubTypes.java
+
+
+
+
+
+S unique dependencies: 
+Key: ParserResultFactory.java
+Values:
+CommandLine.java
+Key: FailingCollectionSource.java
+Values:
+checkArgument.java
+Key: DebeziumAvroSerDeSchemaTest.java
+Values:
+DebeziumAvroSerDeSchemaTest.java
+Schema.java
+GenericRecord.java
+Key: BufferBuilder.java
+Values:
+BufferRecycler.java
+buffer.java
+Key: HadoopPathBasedPartFileWriterITCase.java
+Values:
+Configuration.java
+HadoopPathBasedPendingFileRecoverableSerializer.java
+FileSystem.java
+HadoopPathBasedPendingFileRecoverable.java
+Path.java
+Key: StatusWatermarkValve.java
+Values:
+checkArgument.java
+watermarkStatus.java
+Key: WatermarkStrategyWithTimestampAssigner.java
+Values:
+timestampAssigner.java
+Key: CalciteParser.java
+Values:
+SqlAbstractParserImpl.java
+SqlParser.java
+SourceStringReader.java
+SqlParseException.java
+Key: SchedulingStrategyFactory.java
+Values:
+SchedulingTopology.java
+Key: BroadcastConnectedStream.java
+Values:
+broadcastStream.java
+Key: DataStream.java
+Values:
+DataStream.java
+broadcastStream.java
+Key: StateTtlConfig.java
+Values:
+checkArgument.java
+OnCreateAndWrite.java
+StateTtlConfig.java
+NeverReturnExpired.java
+Key: HsMemoryDataSpiller.java
+Values:
+bufferWithIdentity.java
+Key: InputChannelStateHandle.java
+Values:
+StreamStateHandle.java
+Key: HiveDialectAggITCase.java
+Values:
+UDFArgumentTypeException.java
+Key: DynamicFilteringDataCollectorOperator.java
+Values:
+DynamicFilteringDataCollectorOperator.java
+Key: DistributedCacheDfsTest.java
+Values:
+Configuration.java
+MiniDFSCluster.java
+Key: YarnApplicationFileUploader.java
+Values:
+LocalResourceType.java
+FsAction.java
+LocalResourceVisibility.java
+YarnApplicationFileUploader.java
+Path.java
+FsPermission.java
+FileStatus.java
+ApplicationId.java
+LocatedFileStatus.java
+FileSystem.java
+Key: SqlAlterHiveViewProperties.java
+Values:
+SqlNodeList.java
+SqlIdentifier.java
+SqlParserPos.java
+SqlWriter.java
+Key: LimitPushDownSpec.java
+Values:
+LimitPushDownSpec.java
+SourceAbilityContext.java
+Key: CatalogSchemaTable.java
+Values:
+RelDataTypeFactory.java
+Key: IntPrimitiveArraySerializer.java
+Values:
+IntPrimitiveArraySerializer.java
+Key: MiniDispatcher.java
+Values:
+DispatcherBootstrapFactory.java
+JobManagerRunnerRegistry.java
+DispatcherId.java
+DispatcherServices.java
+Key: SqlReset.java
+Values:
+ImmutableNullableList.java
+SqlLiteral.java
+SqlWriter.java
+SqlSpecialOperator.java
+SqlParserPos.java
+SqlKind.java
+SqlNode.java
+Key: TestSplitUDTFInitializeWithStructObjectInspector.java
+Values:
+ObjectInspectorFactory.java
+StructObjectInspector.java
+PrimitiveObjectInspectorFactory.java
+Key: KafkaDynamicTableFactory.java
+Values:
+KafkaDynamicTableFactory.java
+DELIVERY_GUARANTEE.java
+StartupOptions.java
+Key: DataStreamSourceExternalContext.java
+Values:
+TestingSourceSettings.java
+Key: DistinctType.java
+Values:
+DistinctType.java
+Key: TtlListStateVerifier.java
+Values:
+TtlListStateVerifier.java
+Key: StreamExecJoin.java
+Values:
+StreamExecJoin.java
+Key: RowLevelUpdateTest.java
+Values:
+utils.javaScalaConversionUtil.java
+Key: DataTypeFactory.java
+Values:
+UnresolvedIdentifier.java
+Key: BridgingSqlAggFunction.java
+Values:
+SqlKind.java
+Key: HadoopIOFormatsITCase.java
+Values:
+SequenceFile.java
+Path.java
+NullWritable.java
+LongWritable.java
+SequenceFileInputFormat.java
+Text.java
+JobConf.java
+FileSystem.java
+IOUtils.java
+Key: Filter.java
+Values:
+RexChecker.java
+RelMdUtil.java
+CalciteSystemProperty.java
+RelMetadataQuery.java
+RelWriter.java
+Filter.java
+RelOptPlanner.java
+Litmus.java
+RexOver.java
+RexUtil.java
+RexShuttle.java
+RelNode.java
+RexProgram.java
+RelOptCluster.java
+RexNode.java
+RelInput.java
+RelTraitSet.java
+Key: DefaultPreferredLocationsRetriever.java
+Values:
+stateLocationRetriever.java
+inputsLocationsRetriever.java
+Key: CleanupOnCloseRpcSystem.java
+Values:
+CleanupOnCloseRpcSystem.java
+Key: CliOptionsParser.java
+Values:
+CliOptionsParser.java
+HelpFormatter.java
+ParseException.java
+Options.java
+CommandLine.java
+Option.java
+DefaultParser.java
+Key: RawToStringCastRule.java
+Values:
+RawToStringCastRule.java
+Key: MemorySize.java
+Values:
+MemorySize.java
+BYTES.java
+MEGA_BYTES.java
+KILO_BYTES.java
+TERA_BYTES.java
+GIGA_BYTES.java
+Key: SourceAbilitySpec.java
+Values:
+FilterPushDownSpec.java
+SourceAbilityContext.java
+SourceWatermarkSpec.java
+ReadingMetadataSpec.java
+WatermarkPushDownSpec.java
+LimitPushDownSpec.java
+PartitionPushDownSpec.java
+AggregatePushDownSpec.java
+ProjectPushDownSpec.java
+Key: SymbolUtilTest.java
+Values:
+SqlTrimFunction.java
+SqlJsonQueryEmptyOrErrorBehavior.java
+TimeUnitRange.java
+serializableToCalcite.java
+Key: EmbeddedLeaderService.java
+Values:
+checkState.java
+EmbeddedLeaderService.java
+Key: LoggerAuditingExtension.java
+Values:
+LogManager.java
+AppenderRef.java
+LoggerContext.java
+Level.java
+Appender.java
+Property.java
+LogEvent.java
+LoggerConfig.java
+Key: DateToStringCastRule.java
+Values:
+DateToStringCastRule.java
+Key: WindowEnd.java
+Values:
+WindowReference.java
+Key: SourceCoordinator.java
+Values:
+SourceCoordinator.java
+Key: GroupCombineOperator.java
+Values:
+sortedGrouping.java
+Key: LocalDateTimeComparator.java
+Values:
+dateComparator.java
+Key: BoundedBlockingSubpartition.java
+Values:
+BufferAvailabilityListener.java
+Key: FlinkKafkaProducerMigrationTest.java
+Values:
+ProducerConfig.java
+Key: NetUtils.java
+Values:
+NetUtils.java
+fileLock.java
+Key: JsonTestUtils.java
+Values:
+JsonTestUtils.java
+Key: BatchTask.java
+Values:
+BatchTask.java
+driver.java
+Key: DataStreamSinkExternalContext.java
+Values:
+TestingSinkSettings.java
+Key: RocksDBAggregatingState.java
+Values:
+RocksDBAggregatingState.java
+Key: AvroKryoSerializerUtils.java
+Values:
+GenericData.java
+Schema.java
+Key: SourceReaderContext.java
+Values:
+SourceEvent.java
+Key: RelWindowProperties.java
+Values:
+RelWindowProperties.java
+ImmutableBitSet.java
+Key: Int2SortMergeJoinOperatorTest.java
+Values:
+Int2HashJoinOperatorTest.java
+Key: StreamPhysicalPythonCorrelateRule.java
+Values:
+RelTraitSet.java
+RelNode.java
+RelSubset.java
+RelOptRule.java
+RelOptRuleCall.java
+Key: SqlAlterTableSchema.java
+Values:
+SqlParserPos.java
+SqlIdentifier.java
+SqlNodeList.java
+ImmutableNullableList.java
+Key: JobLeaderService.java
+Values:
+JobLeaderListener.java
+Key: OrcColumnarRowSplitReaderNoHiveTest.java
+Values:
+VectorizedRowBatch.java
+LongColumnVector.java
+TimestampColumnVector.java
+OrcFile.java
+Writer.java
+Configuration.java
+TypeDescription.java
+DoubleColumnVector.java
+Key: HiveTableMetaStoreFactory.java
+Values:
+Partition.java
+StatsSetupConst.java
+ReflectionUtil.java
+Reporter.java
+StorageDescriptor.java
+NoSuchObjectException.java
+HiveTableMetaStoreFactory.java
+SerDeStats.java
+Table.java
+JobConf.java
+InputSplit.java
+StatsProvidingRecordReader.java
+Key: CheckpointStartedEvent.java
+Values:
+CheckpointStartedEvent.java
+Key: BoundedSourceITCase.java
+Values:
+TestJobWithDescription.java
+Key: JobSubmitHeaders.java
+Values:
+JobSubmitHeaders.java
+Key: SolutionSetNode.java
+Values:
+iterationNode.java
+Key: SchemaCoder.java
+Values:
+Schema.java
+Key: KvStateService.java
+Values:
+taskManagerServicesConfiguration.java
+KvStateService.java
+Key: HivePartitionUtilsTest.java
+Values:
+StorageDescriptor.java
+Key: DefaultContainerizedExternalSystem.java
+Values:
+DefaultContainerizedExternalSystem.java
+Key: LogicalScopeProvider.java
+Values:
+CharacterFilter.java
+Key: JoinHintResolverTest.java
+Values:
+RelNode.java
+Key: SplitFetcherManager.java
+Values:
+SplitFetcherManager.java
+Key: BatchExecutionUtils.java
+Values:
+BatchExecutionUtils.java
+Key: NettyMessage.java
+Values:
+NettyMessage.java
+Key: LocalBufferPool.java
+Values:
+networkBufferPool.java
+bufferPool.java
+LocalBufferPool.java
+Key: SqlUniqueSpec.java
+Values:
+SqlParserPos.java
+SqlLiteral.java
+Key: GroupReduceCombineDriver.java
+Values:
+taskContext.java
+GroupReduceCombineDriver.java
+Key: KafkaTransactionLog.java
+Values:
+ByteArrayDeserializer.java
+Key: postpass.javaApiPostPass.java
+Values:
+SinkPlanNode.java
+BulkIterationPlanNode.java
+DualInputPlanNode.java
+DriverStrategy.java
+SingleInputPlanNode.java
+SourcePlanNode.java
+RuntimeComparatorFactory.java
+RuntimePairComparatorFactory.java
+FieldList.java
+RuntimeSerializerFactory.java
+WorksetIterationPlanNode.java
+ExecutionConfig.java
+OptimizedPlan.java
+Channel.java
+PlanNode.java
+Key: LongMinimum.java
+Values:
+LongMinimum.java
+Key: ClientCoordinationHeaders.java
+Values:
+ClientCoordinationHeaders.java
+Key: JobCancellationMessageParameters.java
+Values:
+terminationModeQueryParameter.java
+Key: MaxwellJsonDeserializationSchema.java
+Values:
+MaxwellJsonDeserializationSchema.java
+Key: Tuple2.java
+Values:
+tuple.java
+Tuple2.java
+Key: SqlShowCreate.java
+Values:
+SqlParserPos.java
+SqlIdentifier.java
+Key: OperatorNameTestBase.java
+Values:
+utils.javaScalaConversionUtil.java
+Key: DataStreamBatchExecutionITCase.java
+Values:
+iteratorToList.java
+Key: HardwareDescription.java
+Values:
+HardwareDescription.java
+Key: scala.javaJob.java
+Values:
+StreamExecutionEnvironment.java
+Key: MainThreadValidatorUtil.java
+Values:
+MainThreadValidatorUtil.java
+Key: EmailId.java
+Values:
+emailId.java
+EmailId.java
+
+
+
+
+
+Common dependencies: 
+Key: MiniClusterWithClientResource.java
+Values:
+ExceptionUtils.java
+MiniClusterResourceConfiguration.java
+RestClusterClient.java
+TestStreamEnvironment.java
+MiniClusterClient.java
+Key: HiveCountAggFunction.java
+Values:
+DataTypes.java
+Expression.java
+UnresolvedReferenceExpression.java
+CallContext.java
+Key: Tuple21Builder.java
+Values:
+Tuple21.java
+Key: StateTransitions.java
+Values:
+CheckpointScheduling.java
+ExecutionGraph.java
+OperatorCoordinatorHandler.java
+ExecutionGraphHandler.java
+ArchivedExecutionGraph.java
+Key: Over.java
+Values:
+Expression.java
+Key: TestingJobManagerRunner.java
+Values:
+Preconditions.java
+ArchivedExecutionGraph.java
+JobStatus.java
+Time.java
+ExecutionGraphInfo.java
+JobID.java
+OneShotLatch.java
+Key: HadoopS3RecoverableWriterITCase.java
+Values:
+Configuration.java
+CoreOptions.java
+S3TestCredentials.java
+FileSystem.java
+Key: BatchExecSortWindowAggregate.java
+Values:
+ExecutionConfigOptions.java
+ExecNodeUtil.java
+InputProperty.java
+ExecNodeConfig.java
+CodeGenOperatorFactory.java
+ExecEdge.java
+ReadableConfig.java
+InternalTypeInfo.java
+ExecNodeContext.java
+RowType.java
+Key: ParquetProtoWriters.java
+Values:
+ParquetWriterFactory.java
+Key: DebeziumJsonDecodingFormat.java
+Values:
+TimestampData.java
+GenericMapData.java
+RowKind.java
+GenericRowData.java
+DataTypes.java
+StringData.java
+DataTypeUtils.java
+Projection.java
+DataType.java
+ChangelogMode.java
+TimestampFormat.java
+Key: AbstractAggregatingMetricsHandler.java
+Values:
+MetricStore.java
+MetricsAggregationParameter.java
+RestfulGateway.java
+Time.java
+Preconditions.java
+MetricsFilterParameter.java
+MetricFetcher.java
+Key: FileSystemTableSinkTest.java
+Values:
+TableEnvironment.java
+ExplainDetail.java
+ValidationException.java
+ExecutionConfigOptions.java
+EnvironmentSettings.java
+Key: CastRuleProviderTest.java
+Values:
+ObjectIdentifier.java
+LogicalType.java
+DistinctType.java
+Key: HiveParserUtils.java
+Values:
+HiveParserTypeConverter.java
+HiveGenericUDAF.java
+HiveShimLoader.java
+TableSchema.java
+HiveParserSqlFunctionConverter.java
+HiveTypeUtil.java
+HiveParserRowResolver.java
+HiveParserASTNode.java
+HiveASTParseDriver.java
+DataTypes.java
+HiveParserUnparseTranslator.java
+HiveReflectionUtils.java
+TableColumn.java
+Preconditions.java
+HiveParserCreateViewInfo.java
+Schema.java
+HiveParserSemanticAnalyzer.java
+HiveParserTypeCheckCtx.java
+HiveCatalogFactoryOptions.java
+HiveParserErrorMsg.java
+GenericUDFLegacyGroupingID.java
+HiveParserQB.java
+DataType.java
+Key: TestingClassLoaderLease.java
+Values:
+TestingUserCodeClassLoader.java
+Key: DCounter.java
+Values:
+Counter.java
+Key: KvStateServerHandler.java
+Values:
+Preconditions.java
+ExceptionUtils.java
+KvStateRegistry.java
+KvStateInternalRequest.java
+LambdaUtil.java
+KvStateRequestStats.java
+Key: BloomFilter.java
+Values:
+MemorySegment.java
+Key: SubtaskCommittableManager.java
+Values:
+CommittableWithLineage.java
+Key: BlobStore.java
+Values:
+JobID.java
+Key: StreamArrowPythonGroupWindowAggregateFunctionOperator.java
+Values:
+RowDataUtil.java
+RowType.java
+BinaryRowDataUtil.java
+GenericRowData.java
+ListStateDescriptor.java
+Tuple2.java
+GeneratedProjection.java
+TimestampData.java
+RowData.java
+JoinedRowData.java
+RowKind.java
+BinaryRowData.java
+Configuration.java
+Key: ConfigUtilsStorageTest.java
+Values:
+TestUtils.java
+Key: StreamGraphGeneratorTest.java
+Values:
+ManagedMemoryUseCase.java
+ExecutionConfig.java
+StreamExecutionEnvironment.java
+StreamSource.java
+RebalancePartitioner.java
+CacheTransformation.java
+ChainingStrategy.java
+CacheTransformationTranslator.java
+GlobalPartitioner.java
+Configuration.java
+SlotSharingGroup.java
+AbstractID.java
+MapStateDescriptor.java
+RuntimeExecutionMode.java
+MultipleInputTransformation.java
+SavepointConfigOptions.java
+AbstractUdfStreamOperator.java
+BasicTypeInfo.java
+ResourceSpec.java
+PartitionTransformation.java
+ResourceProfile.java
+SavepointRestoreSettings.java
+ShufflePartitioner.java
+ForwardPartitioner.java
+LatencyMarker.java
+DataStream.java
+DiscardingSink.java
+StreamExchangeMode.java
+Watermark.java
+Function.java
+BroadcastPartitioner.java
+Key: PushProjectIntoTableSourceScanRule.java
+Values:
+SourceAbilityContext.java
+DynamicTableSource.java
+Column.java
+TableConfig.java
+Projection.java
+DynamicSourceUtils.java
+RowType.java
+ResolvedSchema.java
+SourceAbilitySpec.java
+UniqueConstraint.java
+Key: ObjectToExpressionTest.java
+Values:
+RowKind.java
+ValidationException.java
+Row.java
+DataTypes.java
+Key: DataTypeJsonDeserializer.java
+Values:
+LogicalType.java
+DataTypes.java
+MapType.java
+LogicalTypeChecks.java
+DataType.java
+DistinctType.java
+Key: FlinkDDLDataTypeTest.java
+Values:
+SqlCreateTable.java
+Key: NonLeaderRetrievalRestfulGateway.java
+Values:
+Time.java
+JobID.java
+Key: LocalInputChannelTest.java
+Values:
+ResultSubpartition.java
+EventSerializer.java
+CheckpointStorageLocationReference.java
+RecordingChannelStateWriter.java
+ResultPartitionManager.java
+CheckpointBarrier.java
+FutureUtils.java
+BufferProvider.java
+TestBufferFactory.java
+PartitionNotFoundException.java
+CancelTaskException.java
+BufferPool.java
+PipelinedResultPartition.java
+BufferConsumer.java
+PartitionTestUtils.java
+CheckedSupplier.java
+TaskEventDispatcher.java
+BufferAvailabilityListener.java
+ResultPartitionType.java
+InputChannelTestUtils.java
+ResultPartitionID.java
+CheckpointOptions.java
+ResultPartition.java
+NoOpFileChannelManager.java
+NetworkBufferPool.java
+CheckpointType.java
+ResultSubpartitionView.java
+Key: RetryingRegistrationConfigurationTest.java
+Values:
+ClusterOptions.java
+TaskManagerOptions.java
+Configuration.java
+Key: HBaseConnectorOptions.java
+Values:
+ConfigOptions.java
+MemorySize.java
+Key: FlinkKafkaProducerBaseTest.java
+Values:
+FunctionSnapshotContext.java
+StreamSink.java
+SinkContextUtil.java
+CheckedThread.java
+RuntimeContext.java
+MultiShotLatch.java
+StreamRecord.java
+StreamingRuntimeContext.java
+KeyedSerializationSchemaWrapper.java
+OneInputStreamOperatorTestHarness.java
+FakeStandardProducerConfig.java
+FlinkKafkaPartitioner.java
+Key: HsSubpartitionViewTest.java
+Values:
+BufferAvailabilityListener.java
+Buffer.java
+NetworkBufferPool.java
+BufferPool.java
+CheckedThread.java
+Key: MatrixVectorMul.java
+Values:
+Configuration.java
+Preconditions.java
+SimpleStringEncoder.java
+StreamExecutionEnvironment.java
+FileSink.java
+ParameterTool.java
+Key: FileSourceSplitSerializer.java
+Values:
+DataInputDeserializer.java
+DataOutputView.java
+Path.java
+DataOutputSerializer.java
+CheckpointedPosition.java
+DataInputView.java
+Key: AbstractYarnClusterTest.java
+Values:
+Preconditions.java
+ClusterRetrieveException.java
+Key: AvroParquetFileReadITCase.java
+Values:
+MiniClusterResourceConfiguration.java
+StreamExecutionEnvironment.java
+FileSystem.java
+MiniClusterExtension.java
+WatermarkStrategy.java
+FileSource.java
+Path.java
+Key: ObservableStreamTaskInput.java
+Values:
+DataInputStatus.java
+ChannelStateWriter.java
+BoundedMultiInput.java
+Key: NonReusingSortMergeCoGroupIteratorITCase.java
+Values:
+Tuple2.java
+TestData.java
+Key: WorkerResourceSpecFactory.java
+Values:
+TaskExecutorProcessSpec.java
+Configuration.java
+TaskExecutorProcessUtils.java
+CPUResource.java
+Key: CheckpointStreamWithResultProvider.java
+Values:
+Path.java
+ExceptionUtils.java
+Key: DefaultBlocklistHandlerTest.java
+Values:
+ComponentMainThreadExecutor.java
+Acknowledge.java
+ResourceID.java
+TestingUtils.java
+ComponentMainThreadExecutorServiceAdapter.java
+Key: SinkTransformationTranslator.java
+Values:
+DataStream.java
+StandardSinkTopologies.java
+ForwardPartitioner.java
+StreamExecutionEnvironment.java
+WithPreWriteTopology.java
+ExecutionConfig.java
+PartitionTransformation.java
+CoreOptions.java
+CustomSinkOperatorUidHashes.java
+CommitterOperatorFactory.java
+SinkWriterOperatorFactory.java
+CommittableMessageTypeInfo.java
+StreamExchangeMode.java
+WithPreCommitTopology.java
+Key: KvStateHandler.java
+Values:
+JobVertexID.java
+KvStateLocationRegistry.java
+JobID.java
+KvStateLocation.java
+ExecutionGraph.java
+KvStateID.java
+KeyGroupRange.java
+Key: FileSourceSplitReader.java
+Values:
+Configuration.java
+Key: SortedMapSerializerSnapshot.java
+Values:
+DataOutputView.java
+InstantiationUtil.java
+NestedSerializersSnapshotDelegate.java
+TypeSerializerSchemaCompatibility.java
+DataInputView.java
+Key: DiscardingOutputFormat.java
+Values:
+Configuration.java
+Key: StateKeyContext.java
+Values:
+RowData.java
+Key: KMeansData.java
+Values:
+ExecutionEnvironment.java
+Key: ArrayListAsyncSink.java
+Values:
+AsyncSinkWriterConfiguration.java
+Key: DummyClusterClientServiceLoader.java
+Values:
+Configuration.java
+Key: AsyncSinkConnectorOptions.java
+Values:
+ConfigOptions.java
+Key: AvroSerializerTest.java
+Values:
+TestDataGenerator.java
+Key: ArgumentCountRange.java
+Values:
+ArgumentCount.java
+Key: ProcTimeMiniBatchAssignerOperator.java
+Values:
+Watermark.java
+Gauge.java
+Key: TestingRetryStrategies.java
+Values:
+RetryStrategy.java
+Key: ValuesSourceEnumerator.java
+Values:
+ValuesSourceSplit.java
+Key: JobVertexTaskManagersInfoTest.java
+Values:
+ExecutionState.java
+IOMetricsInfo.java
+Key: RecordProcessorUtilsTest.java
+Values:
+CheckpointOptions.java
+LatencyMarker.java
+KeySelector.java
+Configuration.java
+CheckpointStreamFactory.java
+StreamTaskStateInitializer.java
+StreamTaskITCase.java
+MockOutput.java
+WatermarkStatus.java
+StreamRecord.java
+InstantiationUtil.java
+Watermark.java
+Key: CountWindow.java
+Values:
+DataOutputView.java
+DataInputView.java
+MathUtils.java
+Key: TableImpl.java
+Values:
+GroupWindow.java
+SchemaTranslator.java
+UnresolvedIdentifier.java
+FunctionLookup.java
+OperationTreeBuilder.java
+ContextResolvedTable.java
+OverWindow.java
+Table.java
+TemporalTableFunctionImpl.java
+ExplainDetail.java
+ExplainFormat.java
+LookupCallResolver.java
+OperationExpressionsUtils.java
+TableDescriptor.java
+ObjectIdentifier.java
+ResolvedCatalogTable.java
+QueryOperation.java
+Expression.java
+Key: Record.java
+Values:
+DataOutputView.java
+DataInputView.java
+InstantiationUtil.java
+Key: Fabric8FlinkKubeClient.java
+Values:
+ExecutorUtils.java
+FutureUtils.java
+KubernetesConfigOptions.java
+KubernetesLeaderElectionConfiguration.java
+ExceptionUtils.java
+KubernetesUtils.java
+KubernetesPod.java
+KubernetesConfigMap.java
+ServiceType.java
+ExternalServiceDecorator.java
+Configuration.java
+Key: NTILEAggFunction.java
+Values:
+DataTypes.java
+UnresolvedReferenceExpression.java
+Expression.java
+Key: ByteType.java
+Values:
+DataOutputView.java
+DataInputView.java
+Key: GlobalWindow.java
+Values:
+DataInputView.java
+DataOutputView.java
+Key: Tuple3.java
+Values:
+StringUtils.java
+Key: BufferBuilder.java
+Values:
+MemorySegment.java
+Key: RawToStringCastRule.java
+Values:
+LogicalTypeFamily.java
+LogicalTypeRoot.java
+LogicalTypeChecks.java
+LogicalType.java
+Key: AkkaRpcSystemLoader.java
+Values:
+IOUtils.java
+ConfigurationUtils.java
+SubmoduleClassLoader.java
+FileUtils.java
+RpcSystem.java
+Configuration.java
+Key: TaskManagerCustomLogHeaders.java
+Values:
+LogFileNamePathParameter.java
+Key: AvroBulkFormatTest.java
+Values:
+StringUtils.java
+GenericRowData.java
+FileSourceSplit.java
+FileUtils.java
+StringData.java
+AvroSchemaConverter.java
+Key: StreamRecordRowDataWrappingCollector.java
+Values:
+StreamRecord.java
+RowData.java
+Key: ChangelogCollectResultTest.java
+Values:
+JobID.java
+DataTypes.java
+Column.java
+CloseableIterator.java
+ResolvedSchema.java
+ResultKind.java
+GenericRowData.java
+Key: JobStatusHandlerTest.java
+Values:
+JobID.java
+TestingRestfulGateway.java
+JobIDPathParameter.java
+JobStatusInfoHeaders.java
+EmptyRequestBody.java
+TestingUtils.java
+HandlerRequest.java
+JobStatus.java
+Key: TestingYarnNMClientAsync.java
+Values:
+Preconditions.java
+Key: DynamicTableSinkSpec.java
+Values:
+ContextResolvedTable.java
+DynamicTableSink.java
+FactoryUtil.java
+DynamicTableSinkFactory.java
+Key: RankProcessStrategySerdeTest.java
+Values:
+RankProcessStrategy.java
+JacksonMapperFactory.java
+Key: HBaseTypeUtils.java
+Values:
+LogicalType.java
+TypeInformation.java
+Key: BatchExecDynamicFilteringDataCollector.java
+Values:
+InternalTypeInfo.java
+RowType.java
+ExecNodeContext.java
+ExecNodeConfig.java
+ReadableConfig.java
+ExecEdge.java
+AkkaOptions.java
+MemorySize.java
+ExecNodeUtil.java
+InputProperty.java
+Key: RexLiteralUtil.java
+Values:
+DecimalData.java
+LogicalTypeChecks.java
+TimestampData.java
+BinaryStringData.java
+Tuple2.java
+LogicalType.java
+Key: BlockSplittingRecursiveEnumerator.java
+Values:
+FileSystem.java
+StandardDeCompressors.java
+FileStatus.java
+Path.java
+Key: ScalaFreeITCase.java
+Values:
+FlinkResourceSetup.java
+TestExecutorResource.java
+ResourceTestUtils.java
+JobSubmission.java
+FlinkResource.java
+JarLocation.java
+Key: FlinkCounterWrapperTest.java
+Values:
+Counter.java
+Key: SessionEnvironment.java
+Values:
+Catalog.java
+Module.java
+ReadableConfig.java
+EndpointVersion.java
+Key: PbCodegenMapSerializer.java
+Values:
+PbCodegenAppender.java
+PbCodegenVarId.java
+PbCodegenUtils.java
+MapType.java
+LogicalType.java
+PbFormatContext.java
+PbConstant.java
+Key: FailureRateRestartBackoffTimeStrategy.java
+Values:
+Clock.java
+Configuration.java
+RestartStrategyOptions.java
+SystemClock.java
+Key: UnknownTaskExecutorException.java
+Values:
+ResourceID.java
+Key: StandardSinkTopologies.java
+Values:
+Types.java
+ChainingStrategy.java
+Key: LeaderRetrievalEventHandler.java
+Values:
+LeaderInformation.java
+Key: NoOpTimestampsAndWatermarks.java
+Values:
+StreamRecord.java
+TimestampAssigner.java
+ExceptionInChainedOperatorException.java
+Watermark.java
+Key: PartitionableListState.java
+Values:
+FSDataOutputStream.java
+DataOutputView.java
+Preconditions.java
+Key: ResourceManagerDriver.java
+Values:
+BlockedNodeRetriever.java
+ScheduledExecutor.java
+TaskExecutorProcessSpec.java
+ApplicationStatus.java
+Key: ConfigurationUtils.java
+Values:
+Preconditions.java
+TimeUtils.java
+Time.java
+Key: TestSchedulingStrategy.java
+Values:
+ExecutionState.java
+SchedulerOperations.java
+IntermediateResultPartitionID.java
+Key: BlobServerRangeTest.java
+Values:
+BlobServerOptions.java
+Configuration.java
+
+
+
+
+
+U AND S common dependencies: 
+Key: MapType.java
+Values:
+LogicalType.java
+LogicalTypeRoot.java
+Key: SlotSharingSlotAllocator.java
+Values:
+FreeSlotFunction.java
+ReserveSlotFunction.java
+SharedSlot.java
+JobInformation.java
+IsSlotAvailableAndFreeFunction.java
+VertexParallelismWithSlotSharing.java
+ReservedSlots.java
+Key: CommittableCollectorSerializer.java
+Values:
+CheckpointCommittableManagerImpl.java
+CommittableCollector.java
+SubtaskCommittableManager.java
+SinkV1CommittableDeserializer.java
+CommitRequestImpl.java
+Key: AbstractDeserializationSchema.java
+Values:
+AbstractDeserializationSchema.java
+Key: CopyOnWriteSkipListStateMapComplexOpTest.java
+Values:
+TestAllocator.java
+Key: NFATestUtilities.java
+Values:
+NFATestHarness.java
+Key: CliRowView.java
+Values:
+CliStrings.java
+Key: DistCp.java
+Values:
+FileCopyTask.java
+Key: SingleInputGateTest.java
+Values:
+TestInputChannel.java
+SingleInputGateBuilder.java
+InputChannelBuilder.java
+Key: ComputationState.java
+Values:
+DeweyNumber.java
+Key: ChangelogKeyedStateBackend.java
+Values:
+ChangelogStateFactory.java
+PriorityQueueStateChangeLoggerImpl.java
+ChangelogTruncateHelper.java
+KvStateChangeLoggerImpl.java
+ChangelogStateBackendMetricGroup.java
+ChangelogState.java
+Key: NullValueToProtoTest.java
+Values:
+ProtobufTestHelper.java
+Key: RestoreStreamTaskTest.java
+Values:
+OneInputStreamTaskTestHarness.java
+StreamMockEnvironment.java
+Key: GlobalProperties.java
+Values:
+PartitioningProperty.java
+Key: StreamTaskExternallyInducedSourceInput.java
+Values:
+DataInputStatus.java
+Key: ZooKeeperMultipleComponentLeaderElectionDriver.java
+Values:
+LeaderInformation.java
+Key: ApplicationClusterEntryPoint.java
+Values:
+ApplicationDispatcherLeaderProcessFactoryFactory.java
+Key: DeclarativeSlotPoolBridgeTest.java
+Values:
+TestingDeclarativeSlotPoolBuilder.java
+TestingDeclarativeSlotPool.java
+TestingDeclarativeSlotPoolFactory.java
+Key: MapDataSerializerTest.java
+Values:
+ArrayDataSerializerTest.java
+Key: DefaultExecutionTopology.java
+Values:
+DefaultSchedulingPipelinedRegion.java
+DefaultResultPartition.java
+DefaultExecutionVertex.java
+Key: MiniClusterWithClientResource.java
+Values:
+TestEnvironment.java
+Key: DefaultDeclarativeSlotPool.java
+Values:
+AllocatedSlotPool.java
+AllocatedSlot.java
+Key: StandaloneCompletedCheckpointStore.java
+Values:
+CheckpointsCleaner.java
+CheckpointSubsumeHelper.java
+CompletedCheckpoint.java
+Key: TimeWindow.java
+Values:
+Window.java
+Key: HiveTableMetaStoreFactory.java
+Values:
+JobConfWrapper.java
+Key: RegisteredKeyValueStateBackendMetaInfo.java
+Values:
+StateSerializerProvider.java
+Key: BinaryToStringCastRule.java
+Values:
+CastRuleUtils.java
+CastRulePredicate.java
+CharVarCharTrimPadCastRule.java
+Key: ScalarFunctionDefinition.java
+Values:
+ScalarFunction.java
+Key: JsonFormatOptionsUtil.java
+Values:
+JsonFormatOptions.java
+Key: ConfigConstants.java
+Values:
+BlobServerOptions.java
+Key: IterationSynchronizationSinkTask.java
+Values:
+SyncEventHandler.java
+Key: ExecutionDeploymentTrackerDeploymentListenerAdapter.java
+Values:
+ExecutionDeploymentTracker.java
+Key: RecoveredInputChannel.java
+Values:
+EndOfChannelStateEvent.java
+BufferManager.java
+SingleInputGate.java
+InputChannel.java
+Key: StreamingSink.java
+Values:
+StreamingFileWriter.java
+PartitionCommitInfo.java
+PartitionCommitter.java
+Key: DefaultDelegationTokenManagerTest.java
+Values:
+ExceptionThrowingDelegationTokenReceiver.java
+ExceptionThrowingDelegationTokenProvider.java
+Key: TaskExecutorFlinkMemoryUtils.java
+Values:
+TaskExecutorFlinkMemory.java
+Key: BoundedBlockingSubpartitionType.java
+Values:
+ResultPartitionFactory.java
+BoundedBlockingSubpartition.java
+Key: OrcNoHiveTimestampVector.java
+Values:
+TimestampColumnVector.java
+Key: TupleSerializer.java
+Values:
+TupleSerializerSnapshot.java
+Key: HiveTableSourceITCase.java
+Values:
+HiveConf.java
+Key: AnotherDummyFSFactory.java
+Values:
+AnotherDummyFSFileSystem.java
+Key: SqlTableConstraint.java
+Values:
+SqlUniqueSpec.java
+SqlConstraintEnforcement.java
+Key: LocalInputChannelTest.java
+Values:
+InputChannelBuilder.java
+Key: IntComparator.java
+Values:
+NormalizedKeyUtil.java
+Key: GeneratedClass.java
+Values:
+CompileUtils.java
+Key: ArrayListSerializerSnapshot.java
+Values:
+ArrayListSerializer.java
+Key: LookupJoinUtil.java
+Values:
+KeySelectorUtil.java
+Key: JarDeleteMessageParameters.java
+Values:
+JarIdPathParameter.java
+Key: TableEnvironment.java
+Values:
+ExplainFormat.java
+Table.java
+Key: ReducingUpsertWriter.java
+Values:
+SinkBufferFlushMode.java
+Key: Expressions.java
+Values:
+ApiExpression.java
+Key: InputChannel.java
+Values:
+SingleInputGate.java
+Key: StreamExecSortLimit.java
+Values:
+StreamExecRank.java
+Key: TaskManagerConfiguration.java
+Values:
+TaskExecutorResourceUtils.java
+Key: DescribeTableOperation.java
+Values:
+OperationUtils.java
+Key: RestOptions.java
+Values:
+JobManagerOptions.java
+ConfigConstants.java
+WebOptions.java
+Key: LatencyTrackingListState.java
+Values:
+LatencyTrackingStateConfig.java
+Key: BinaryKVExternalMerger.java
+Values:
+ChannelReaderKVInputViewIterator.java
+Key: AbstractPartialSolutionNode.java
+Values:
+OptimizerNode.java
+Key: CheckpointSubsumeHelper.java
+Values:
+CompletedCheckpoint.java
+Key: Configuration.java
+Values:
+ConfigurationUtils.java
+GlobalConfiguration.java
+FallbackKey.java
+Key: HybridSource.java
+Values:
+HybridSourceEnumeratorState.java
+Key: DefaultExecutionGraphRescalingTest.java
+Values:
+ExecutionGraphTestUtils.java
+TestingDefaultExecutionGraphBuilder.java
+Key: MiniClusterJobClient.java
+Values:
+MiniCluster.java
+Key: HiveRunnerITCase.java
+Values:
+HiveConf.java
+Key: HsSpillingInfoProvider.java
+Values:
+HsConsumerId.java
+Key: CheckpointCoordinatorTriggeringTest.java
+Values:
+CheckpointCoordinatorTestingUtils.java
+Key: SingleOutputStreamOperator.java
+Values:
+CachedDataStream.java
+SideOutputDataStream.java
+Key: BufferedKVExternalSorter.java
+Values:
+BinaryKVExternalMerger.java
+SpillChannelManager.java
+BinaryKVInMemorySortBuffer.java
+Key: HiveMapredSplitReader.java
+Values:
+HiveTableInputSplit.java
+Key: TaskManagerMetricsMessageParameters.java
+Values:
+MetricsFilterParameter.java
+Key: RestAPIStabilityTestUtils.java
+Values:
+CompatibilityRoutines.java
+CompatibilityRoutine.java
+Key: FlinkStreamPlanAnalyzers.java
+Values:
+NonDeterministicUpdateAnalyzer.java
+GroupAggregationAnalyzer.java
+Key: LargeRecordHandler.java
+Values:
+ExternalSorter.java
+Key: JobMasterQueryableStateTest.java
+Values:
+JobMasterTestUtils.java
+Key: JobGraphTest.java
+Values:
+JobGraphTestUtils.java
+Key: DefaultBlocklistHandler.java
+Values:
+BlockedNodeAdditionResult.java
+BlocklistContext.java
+BlocklistTracker.java
+BlocklistListener.java
+Key: JsonObjectConverter.java
+Values:
+JsonConverterUtil.java
+Key: GSBlobStorageImpl.java
+Values:
+GSBlobIdentifier.java
+Key: EntropyInjector.java
+Values:
+FileSystem.java
+Path.java
+EntropyInjectingFileSystem.java
+Key: JoinHintResolver.java
+Values:
+FlinkHints.java
+JoinStrategy.java
+LogicalCorrelate.java
+Configuration.java
+Key: RegisteredOperatorStateBackendMetaInfo.java
+Values:
+OperatorStateHandle.java
+StateSerializerProvider.java
+Key: SemanticsCheckMapper.java
+Values:
+Event.java
+Key: LongHashJoinGeneratorTest.java
+Values:
+LongAdaptiveHashJoinGeneratorTest.java
+Key: LegacySinkTransformationTranslator.java
+Values:
+BatchExecutionUtils.java
+Key: OperatorStateRestoreOperation.java
+Values:
+RegisteredOperatorStateBackendMetaInfo.java
+RegisteredBroadcastStateBackendMetaInfo.java
+PartitionableListState.java
+HeapBroadcastState.java
+OperatorBackendSerializationProxy.java
+Key: TestingSchedulingTopology.java
+Values:
+TestingSchedulingResultPartition.java
+TestingSchedulingPipelinedRegion.java
+TestingSchedulingExecutionVertex.java
+Key: PassThroughPythonScalarFunctionRunner.java
+Values:
+PythonTestUtils.java
+Key: GroupAggFunction.java
+Values:
+RecordCounter.java
+Key: DummyClusterClientFactory.java
+Values:
+DummyClusterDescriptor.java
+Key: SqlCastFunction.java
+Values:
+SqlValidatorImpl.java
+Key: HiveASTParseUtils.java
+Values:
+HiveParserASTNode.java
+HiveASTParseDriver.java
+HiveParserASTBuilder.java
+Key: CompletedCheckpointStatsSummarySnapshot.java
+Values:
+StatsSummarySnapshot.java
+Key: TtlVerificationContext.java
+Values:
+ValueWithTs.java
+
+
+
+
+
+I AND S common dependencies: 
+Key: FlinkConfMountDecorator.java
+Values:
+Files.java
+Key: PushFilterPastChangelogNormalizeRuleTest.java
+Values:
+StreamTableTestUtil.java
+Key: KvStateInternalRequest.java
+Values:
+ByteBuf.java
+Key: ArrayElementArgumentTypeStrategy.java
+Values:
+Argument.java
+Key: ZooKeeperLeaderElectionDriver.java
+Values:
+ConnectionState.java
+ConnectionStateListener.java
+LeaderLatch.java
+ChildData.java
+CuratorFramework.java
+TreeCache.java
+Key: RegistryAvroRowDataSeDeSchemaTest.java
+Values:
+Address.java
+Key: LeaderRetrievalHandler.java
+Values:
+ChannelHandlerContext.java
+HttpResponseStatus.java
+HttpRequest.java
+Key: SortLimitJsonPlanTest.java
+Values:
+StreamTableTestUtil.java
+Key: BatchExecDynamicFilteringDataCollector.java
+Values:
+PlannerBase.java
+Key: ExecNodeTypeIdResolver.java
+Values:
+DatabindContext.java
+Key: RightOuterJoinOperatorTest.java
+Values:
+JoinHint.java
+Key: CheckpointCoordinatorTest.java
+Values:
+CheckpointCoordinatorBuilder.java
+Iterables.java
+Key: OrcFilters.java
+Values:
+ImmutableMap.java
+Key: BatchExecValues.java
+Values:
+PlannerBase.java
+Key: ColumnarRowData.java
+Values:
+Bytes.java
+Key: FlinkYarnSessionCliTest.java
+Values:
+Lists.java
+Key: ReusingHashJoinIteratorITCase.java
+Values:
+KeyMode.java
+ValueMode.java
+Key: StreamExecRank.java
+Values:
+PlannerBase.java
+EqualiserCodeGenerator.java
+RankUtil.java
+ComparatorCodeGenerator.java
+Key: DebeziumJsonDeserializationSchema.java
+Values:
+ReadableMetadata.java
+Key: StreamGraphHasherV2.java
+Values:
+Hashing.java
+Hasher.java
+HashFunction.java
+Key: CompactCoordinatorTest.java
+Values:
+TestPendingFileRecoverable.java
+TestInProgressFileRecoverable.java
+Builder.java
+CompactionUnit.java
+EndCompaction.java
+CoordinatorOutput.java
+Key: AbstractOuterJoinTaskTest.java
+Values:
+Throwables.java
+Key: AbstractHandler.java
+Values:
+ObjectMapper.java
+Ascii.java
+HttpRequest.java
+HttpResponseStatus.java
+ByteBuf.java
+JsonParseException.java
+ChannelHandlerContext.java
+JsonMappingException.java
+Key: ArrowPythonScalarFunctionOperator.java
+Values:
+FlinkFnApi.java
+Key: HiveTableCompactSinkParallelismTest.java
+Values:
+PlannerBase.java
+Key: BlockStatementGrouper.java
+Values:
+StatementContext.java
+Key: YarnTestArchiveJob.java
+Values:
+ImmutableList.java
+Key: CompactFileWriterTest.java
+Values:
+EndCheckpoint.java
+Key: WatermarkAssignerJsonPlanTest.java
+Values:
+StreamTableTestUtil.java
+Key: JobResultSerializer.java
+Values:
+TypeFactory.java
+JsonGenerator.java
+SerializerProvider.java
+Key: RocksDBHeapTimersFullRestoreOperation.java
+Values:
+RocksDbKvStateInfo.java
+Key: JobVertexBackPressureHandlerTest.java
+Values:
+VertexBackPressureStatus.java
+TaskQueryScopeInfo.java
+Key: MaxwellJsonDeserializationSchema.java
+Values:
+ReadableMetadata.java
+JsonNode.java
+Key: LogicalTypeJsonSerializer.java
+Values:
+SerializerProvider.java
+JsonGenerator.java
+CatalogPlanCompilation.java
+Key: JobConfigInfo.java
+Values:
+DeserializationContext.java
+JsonGenerator.java
+JsonParser.java
+JsonNode.java
+SerializerProvider.java
+Key: CuratorFrameworkWithUnhandledErrorListener.java
+Values:
+CuratorFramework.java
+UnhandledErrorListener.java
+Key: WindowReferenceJsonSerializer.java
+Values:
+JsonGenerator.java
+SerializerProvider.java
+Key: HsFileDataIndexSpilledRegionManagerImplTest.java
+Values:
+InternalRegion.java
+Key: FullOuterJoinOperatorTest.java
+Values:
+JoinHint.java
+Key: HivePartitionFetcherContextBase.java
+Values:
+PartitionOrder.java
+Key: DefaultLastStateConnectionStateListener.java
+Values:
+ConnectionState.java
+CuratorFramework.java
+Key: StreamExecWindowJoin.java
+Values:
+Lists.java
+PlannerBase.java
+JoinUtil.java
+Key: OverAggregateJsonPlanTest.java
+Values:
+StreamTableTestUtil.java
+Key: DistinctITCase.java
+Values:
+POJO.java
+CustomType.java
+Key: HsSubpartitionMemoryDataManager.java
+Values:
+DataType.java
+SpillStatus.java
+ConsumeStatusWithId.java
+Key: SerializedThrowableSerializerTest.java
+Values:
+ObjectMapper.java
+SimpleModule.java
+Key: SqlToOperationConverterTestBase.java
+Values:
+FlinkPlannerImpl.java
+Key: CommonExecPythonCalc.java
+Values:
+PlannerBase.java
+ProjectionCodeGenerator.java
+FlinkTypeFactory.java
+PythonUtil.java
+Key: InternalRegionWriteReadUtils.java
+Values:
+InternalRegion.java
+Key: ClosureCleaner.java
+Values:
+Opcodes.java
+Key: AbstractOneInputEmbeddedPythonFunctionOperator.java
+Values:
+FlinkFnApi.java
+Key: DynamicTableSpecBase.java
+Values:
+FlinkContext.java
+Key: MockKeyedStateBackendBuilder.java
+Values:
+MockSnapshotSupplier.java
+Key: UdfStreamOperatorCheckpointingITCase.java
+Values:
+EvictingQueue.java
+Key: LogicalScriptTransform.java
+Values:
+RelExplainUtil.java
+Key: MessageSerializer.java
+Values:
+ByteBuf.java
+ByteBufAllocator.java
+Key: SlotSharingExecutionSlotAllocator.java
+Values:
+SharedSlotProfileRetrieverFactory.java
+Key: MultiInputSortingDataInputsTest.java
+Values:
+SelectableSortingInputs.java
+Key: CommonExecCorrelate.java
+Values:
+CodeGeneratorContext.java
+CorrelateCodeGenerator.java
+PlannerBase.java
+Key: HsMemoryDataManagerTest.java
+Values:
+Decision.java
+Key: ProcessFailureCancelingITCase.java
+Values:
+TestProcess.java
+Key: FieldParserTest.java
+Values:
+ParseErrorState.java
+Key: StreamExecIntervalJoin.java
+Values:
+JoinUtil.java
+Lists.java
+PlannerBase.java
+Key: JoinITCase.java
+Values:
+CustomType.java
+Key: SourceCoordinatorContext.java
+Values:
+Iterables.java
+Key: JsonRowDataSerializationSchema.java
+Values:
+ObjectNode.java
+ObjectMapper.java
+JsonGenerator.java
+Key: StateChangeUploader.java
+Values:
+UploadTask.java
+Key: FetchResultsResponseBodySerializer.java
+Values:
+SerializerProvider.java
+JsonGenerator.java
+Key: JsonDeserializationSchema.java
+Values:
+ObjectMapper.java
+Key: HiveServer2EndpointITCase.java
+Values:
+TableKind.java
+Key: TaskManagerRunnerITCase.java
+Values:
+Iterables.java
+Key: RuleExpressionVisitor.java
+Values:
+ResolutionContext.java
+Key: AvroDeserializationSchemaTest.java
+Values:
+UnionLogicalType.java
+Address.java
+Key: HadoopFsFactory.java
+Values:
+ConnectionLimitingSettings.java
+Key: FileSystemBehaviorTestSuite.java
+Values:
+WriteMode.java
+Key: ManagedMemoryUtils.java
+Values:
+ImmutableMap.java
+ImmutableList.java
+Key: StreamArrowPythonRowTimeBoundedRowsOperatorTest.java
+Values:
+ProjectionCodeGenerator.java
+Key: DataGeneratorConnectorITCase.java
+Values:
+TestingTableEnvironment.java
+Key: ResolvedExpressionJsonSerializer.java
+Values:
+SerializerProvider.java
+JsonGenerator.java
+Key: MultiLevelMessageRowToProtoTest.java
+Values:
+MultipleLevelMessageTest.java
+Key: JobGraphGenerator.java
+Values:
+JsonFactory.java
+Key: CallBindingCallContext.java
+Values:
+FlinkTypeFactory.java
+Key: IterationsCompilerTest.java
+Values:
+JoinHint.java
+Key: UnalignedCheckpointTestBase.java
+Values:
+Iterables.java
+Key: Prio0OutboundChannelHandlerFactory.java
+Values:
+HttpRequest.java
+ChannelPromise.java
+ChannelHandlerContext.java
+Key: DefaultDispatcherRunnerITCase.java
+Values:
+Iterables.java
+Key: ExceptionUtilsITCase.java
+Values:
+ClassLoaderBuilder.java
+TestProcess.java
+Key: UnionTransformation.java
+Values:
+Lists.java
+Key: TransactionToAbortCheckerTest.java
+Values:
+ImmutableMap.java
+Key: DatadogHttpClient.java
+Values:
+ObjectMapper.java
+Key: RankJsonPlanITCase.java
+Values:
+TestData.java
+Key: AvroSchemaConverterTest.java
+Values:
+User.java
+Key: CombiningExternalSorterITCase.java
+Values:
+ValueMode.java
+KeyMode.java
+
+
+
+
+
+U AND S common dependencies: 
+Key: CEPITCase.java
+Values:
+NFA.java
+OutputTag.java
+CloseableIterator.java
+IterativeCondition.java
+AssignerWithPunctuatedWatermarks.java
+Collector.java
+DataStream.java
+KeySelector.java
+DataStreamSource.java
+Watermark.java
+AbstractTestBase.java
+RichIterativeCondition.java
+Key: ClientHandler.java
+Values:
+MessageBody.java
+Internal.java
+Key: ScalaAggregateOperator.java
+Values:
+Public.java
+TupleTypeInfoBase.java
+AggregationFunction.java
+Internal.java
+Operator.java
+RichGroupReduceFunction.java
+GroupReduceFunction.java
+InvalidProgramException.java
+GroupCombineFunction.java
+Keys.java
+SingleInputOperator.java
+TupleSerializerBase.java
+Grouping.java
+TypeInformation.java
+Collector.java
+Key: UpsertTestConnectorOptions.java
+Values:
+PublicEvolving.java
+ConfigOption.java
+Key: CheckpointingStatisticsHeaders.java
+Values:
+CheckpointingStatisticsHandler.java
+JobMessageParameters.java
+EmptyRequestBody.java
+HttpMethodWrapper.java
+RuntimeMessageHeaders.java
+Key: SqlCommandParserImpl.java
+Values:
+SqlParserEOFException.java
+SqlExecutionException.java
+Key: PerJobMiniClusterFactoryTest.java
+Values:
+CancelableInvokable.java
+Key: BatchExecMultipleInput.java
+Values:
+ExecNode.java
+SingleTransformationTranslator.java
+ExecNodeBase.java
+ExecEdge.java
+Transformation.java
+BatchMultipleInputStreamOperatorFactory.java
+VisibleForTesting.java
+InputProperty.java
+InputSpec.java
+RowData.java
+Key: InternalAggregateProcessAllWindowFunction.java
+Values:
+Window.java
+ProcessAllWindowFunction.java
+RuntimeContext.java
+IterationRuntimeContext.java
+Collector.java
+WrappingFunction.java
+AggregateFunction.java
+Key: RichInputFormatTest.java
+Values:
+Value.java
+RuntimeUDFContext.java
+ExecutionConfig.java
+Accumulator.java
+Path.java
+Key: MockBlobStorage.java
+Values:
+BlobUtils.java
+Key: StreamExecutionEnvironment.java
+Values:
+DataStream.java
+CacheSupportedPipelineExecutor.java
+TimestampedFileInputSplit.java
+Internal.java
+Tuple3.java
+FileMonitoringFunction.java
+Experimental.java
+FileReadFunction.java
+CollectResultIterator.java
+SingleOutputStreamOperator.java
+Time.java
+PublicEvolving.java
+MissingTypeInfo.java
+WrappingRuntimeException.java
+NumberSequenceSource.java
+RestartStrategies.java
+StreamGraphGenerator.java
+ConfigOption.java
+TypeInformation.java
+Transformation.java
+StatefulSequenceSource.java
+InvalidProgramException.java
+DefaultExecutorServiceLoader.java
+Public.java
+SplittableIterator.java
+PojoTypeInfo.java
+DetachedJobExecutionResult.java
+SocketTextStreamFunction.java
+InputFormat.java
+ParallelSourceFunction.java
+FileInputFormat.java
+BasicTypeInfo.java
+ResultTypeQueryable.java
+Key: FlinkKafkaProducer.java
+Values:
+KeyedSerializationSchema.java
+StreamingRuntimeContext.java
+TypeSerializerSingleton.java
+TypeSerializerSnapshot.java
+ListState.java
+SerializationSchema.java
+SimpleTypeSerializerSnapshot.java
+TwoPhaseCommitSinkFunction.java
+FlinkKafkaPartitioner.java
+Internal.java
+PublicEvolving.java
+VisibleForTesting.java
+Key: CopyOnWriteSkipListStateMapSnapshot.java
+Values:
+ResourceGuard.java
+WrappingRuntimeException.java
+TypeSerializer.java
+StateSnapshotTransformer.java
+Key: DefaultSchemaResolver.java
+Values:
+Internal.java
+ValidationException.java
+Key: FilterableTableSource.java
+Values:
+DynamicTableSource.java
+Expression.java
+SupportsFilterPushDown.java
+Key: ValueWithTs.java
+Values:
+CompositeSerializer.java
+TypeSerializerSnapshot.java
+CompositeTypeSerializerSnapshot.java
+FlinkRuntimeException.java
+TypeSerializer.java
+Key: YARNFileReplicationITCase.java
+Values:
+ClusterClient.java
+Key: KeyedSerializationSchemaWrapper.java
+Values:
+KeyedSerializationSchema.java
+SerializationSchema.java
+Internal.java
+Key: GroupAggFunction.java
+Values:
+PerKeyStateDataViewStore.java
+LogicalType.java
+Collector.java
+ValueState.java
+KeyedProcessFunction.java
+Key: JarUploadResponseBody.java
+Values:
+ResponseBody.java
+Key: TupleRightUnwrappingJoiner.java
+Values:
+Tuple2.java
+Collector.java
+FlatJoinFunction.java
+Internal.java
+Key: TestDynamicTableFactory.java
+Values:
+ConfigOption.java
+DynamicTableSource.java
+SerializationSchema.java
+DecodingFormat.java
+ScanTableSource.java
+RowData.java
+EncodingFormat.java
+DeserializationSchema.java
+DynamicTableSink.java
+Key: JsonArrayConverter.java
+Values:
+CallExpressionConvertRule.java
+Internal.java
+BuiltInFunctionDefinitions.java
+Key: SavepointRuntimeContext.java
+Values:
+Accumulator.java
+ReducingState.java
+OperatorMetricGroup.java
+Internal.java
+IntCounter.java
+AggregatingStateDescriptor.java
+BroadcastVariableInitializer.java
+MapState.java
+DoubleCounter.java
+LongCounter.java
+ExternalResourceInfo.java
+JobID.java
+ReducingStateDescriptor.java
+ExecutionConfig.java
+ValueState.java
+ListState.java
+ListStateDescriptor.java
+AggregatingState.java
+DistributedCache.java
+StateDescriptor.java
+ValueStateDescriptor.java
+MapStateDescriptor.java
+Histogram.java
+Key: HiveModuleTest.java
+Values:
+Row.java
+HiveVersionTestUtil.java
+DataType.java
+Key: PbSchemaValidationUtils.java
+Values:
+ValidationException.java
+Key: Catalog.java
+Values:
+FunctionAlreadyExistException.java
+DatabaseAlreadyExistException.java
+DatabaseNotEmptyException.java
+PartitionNotExistException.java
+FunctionNotExistException.java
+PartitionAlreadyExistsException.java
+TableFactory.java
+FunctionDefinitionFactory.java
+PartitionSpecInvalidException.java
+DatabaseNotExistException.java
+Expression.java
+Factory.java
+CatalogException.java
+DynamicTableFactory.java
+TableNotPartitionedException.java
+TableAlreadyExistException.java
+PublicEvolving.java
+TableNotExistException.java
+TablePartitionedException.java
+Key: LogicalTypeVisitor.java
+Values:
+PublicEvolving.java
+Key: StreamingProgram.java
+Values:
+FlatMapFunction.java
+Collector.java
+DataStream.java
+Key: LongMinimum.java
+Values:
+PublicEvolving.java
+Key: PushingAsyncDataInput.java
+Values:
+StreamRecord.java
+Internal.java
+AvailabilityProvider.java
+PullingAsyncDataInput.java
+Key: RegionToRestartInBatchJobBenchmark.java
+Values:
+RestartPipelinedRegionFailoverStrategy.java
+ExecutionVertexID.java
+Key: OrderedStreamElementQueueTest.java
+Values:
+ResultFuture.java
+StreamElement.java
+Watermark.java
+TestLogger.java
+Key: AbstractContainerizedClusterClientFactory.java
+Values:
+Internal.java
+Key: KafkaRecordEmitter.java
+Values:
+KafkaRecordDeserializationSchema.java
+Internal.java
+RecordEmitter.java
+Collector.java
+SourceOutput.java
+Key: GSChecksumWriteChannelTest.java
+Values:
+GSBlobStorage.java
+Key: HiveParallelismInference.java
+Values:
+SupplierWithException.java
+Key: RocksDBKeyedStateBackendTestFactory.java
+Values:
+CloseableRegistry.java
+KeyGroupRange.java
+JobID.java
+TypeSerializer.java
+FsStateBackend.java
+UnregisteredMetricsGroup.java
+Key: CliFrontendListTest.java
+Values:
+JobID.java
+JobStatusMessage.java
+Key: ProjectQueryOperation.java
+Values:
+Internal.java
+Expression.java
+ResolvedExpression.java
+Key: FlatMapDriver.java
+Values:
+Collector.java
+MutableObjectIterator.java
+FlatMapFunction.java
+Key: MockRecordEmitter.java
+Values:
+RecordEmitter.java
+SourceOutput.java
+Key: Tuple25.java
+Values:
+Public.java
+Key: InfiniteIntegerSource.java
+Values:
+ParallelSourceFunction.java
+Key: CountWindow.java
+Values:
+SimpleTypeSerializerSnapshot.java
+TypeSerializerSingleton.java
+TypeSerializerSnapshot.java
+Key: OperatorEventDispatcherImpl.java
+Values:
+OperatorEventDispatcher.java
+Internal.java
+OperatorEventGateway.java
+FlinkRuntimeException.java
+FlinkException.java
+Key: TestingJobMasterServiceProcessFactory.java
+Values:
+JobMasterServiceProcess.java
+Key: BatchExecutionKeyAggregatingState.java
+Values:
+State.java
+StateDescriptor.java
+TypeSerializer.java
+AggregatingState.java
+InternalAggregatingState.java
+AggregateFunction.java
+Key: StateBackendFactory.java
+Values:
+PublicEvolving.java
+IllegalConfigurationException.java
+Key: KafkaTopicPartitionLeader.java
+Values:
+Internal.java
+Key: ParserMock.java
+Values:
+Operation.java
+Parser.java
+ResolvedExpression.java
+Key: CreateOperation.java
+Values:
+Operation.java
+Internal.java
+Key: ScalaEitherSerializerSnapshot.java
+Values:
+CompositeTypeSerializerSnapshot.java
+TypeSerializer.java
+Key: SimpleRequestSlotMatchingStrategyTest.java
+Values:
+SlotRequestId.java
+Key: ValueComparatorUUIDTest.java
+Values:
+TypeSerializer.java
+ComparatorTestBase.java
+TypeComparator.java
+Key: PythonFunctionUtils.java
+Values:
+PythonFunction.java
+Internal.java
+Key: PartitionReader.java
+Values:
+Internal.java
+Key: IntegerValueSummaryAggregatorTest.java
+Values:
+IntValue.java
+NumericColumnSummary.java
+Key: TestingCleanupRunnerFactory.java
+Values:
+TestingJobManagerRunnerFactory.java
+TestingJobManagerRunner.java
+Key: StreamTaskUtil.java
+Values:
+StreamTask.java
+Key: TriggerTestHarness.java
+Values:
+InternalMergingState.java
+Window.java
+KeyedStateBackend.java
+Trigger.java
+MergingState.java
+KvStateRegistry.java
+StreamRecord.java
+JobID.java
+HeapKeyedStateBackend.java
+JobVertexID.java
+KeyContext.java
+ValueState.java
+KeyGroupRange.java
+InternalTimerService.java
+MetricGroup.java
+StateDescriptor.java
+State.java
+CloseableRegistry.java
+TypeInformation.java
+UnregisteredMetricsGroup.java
+TypeSerializer.java
+Key: WebLogAnalysisITCase.java
+Values:
+JavaProgramTestBase.java
+Key: ShortValueComparator.java
+Values:
+Internal.java
+TypeComparator.java
+Key: LongValueParser.java
+Values:
+PublicEvolving.java
+Key: DefaultDelegationTokenManager.java
+Values:
+DelegationTokenReceiver.java
+VisibleForTesting.java
+Internal.java
+FlinkRuntimeException.java
+Key: HashFunction.java
+Values:
+RowData.java
+MapData.java
+ArrayData.java
+Key: CompositeTypeSerializerUtil.java
+Values:
+Internal.java
+Key: ExternalTypeInfoTest.java
+Values:
+ExecutionConfig.java
+TypeInformationTestBase.java
+Key: JarRunHandlerParameterTest.java
+Values:
+TestExecutorExtension.java
+DetachedApplicationRunner.java
+GatewayRetriever.java
+TestingDispatcherGateway.java
+HandlerRequest.java
+Key: ProcessingTimeServiceImpl.java
+Values:
+Internal.java
+NeverCompleteFuture.java
+Key: YARNHighAvailabilityITCase.java
+Values:
+ExecutionState.java
+YarnSessionClusterEntrypoint.java
+JobStatus.java
+JobResult.java
+ClusterClient.java
+ClusterDeploymentException.java
+Key: AllocationID.java
+Values:
+AbstractID.java
+Key: RecordTest.java
+Values:
+DataInputViewStreamWrapper.java
+DataOutputViewStreamWrapper.java
+Key: LambdaUtil.java
+Values:
+ThrowingConsumer.java
+SupplierWithException.java
+ThrowingRunnable.java
+Key: AkkaRpcServiceTest.java
+Values:
+FlinkException.java
+Key: PaddingRightMapFunction.java
+Values:
+MapFunction.java
+ResultTypeQueryable.java
+TypeInformation.java
+InternalTypeInfo.java
+Internal.java
+Key: AbstractKubernetesWatcher.java
+Values:
+FlinkKubeClient.java
+Key: FileSourceSplitTest.java
+Values:
+Path.java
+Key: UnsupportedSchemeFactory.java
+Values:
+Internal.java
+Key: FileSourceSplitState.java
+Values:
+FlinkRuntimeException.java
+PublicEvolving.java
+Key: StatefulOperatorChainedTaskTest.java
+Values:
+OneInputStreamTask.java
+MockInputSplitProvider.java
+ValueState.java
+AbstractStreamOperator.java
+OneInputStreamOperator.java
+TestingTaskManagerRuntimeInfo.java
+Key: SubtaskMetricsHeadersTest.java
+Values:
+TestLogger.java
+Key: SourceStreamTask.java
+Values:
+FlinkException.java
+SavepointType.java
+StreamSource.java
+SourceFunction.java
+CancelTaskException.java
+MailboxDefaultAction.java
+ExternallyInducedSource.java
+Internal.java
+Key: LocalExecutorITCase.java
+Values:
+TestLogger.java
+Tokenizer.java
+ExecutionConfig.java
+Key: HeapSnapshotStrategy.java
+Values:
+StateMetaInfoSnapshot.java
+StateSnapshot.java
+StreamStateHandle.java
+TypeSerializer.java
+StateSerializerProvider.java
+KeyGroupsStateHandle.java
+SnapshotStrategy.java
+SupplierWithException.java
+KeyedStateHandle.java
+Key: TestEnvironment.java
+Values:
+TestResource.java
+StreamExecutionEnvironment.java
+Experimental.java
+Configuration.java
+Path.java
+ExecutionEnvironment.java
+JobExecutionResult.java
+Key: InternalTimeServiceManagerImplTest.java
+Values:
+TestLogger.java
+Key: ParquetFileFormatFactory.java
+Values:
+BulkReaderFormatFactory.java
+BulkWriterFormatFactory.java
+RowData.java
+FileBasedStatisticsReportableInputFormat.java
+BulkWriter.java
+TableStats.java
+DynamicTableSink.java
+DynamicTableFactory.java
+VisibleForTesting.java
+EncodingFormat.java
+RowType.java
+FileSourceSplit.java
+BulkFormat.java
+ConfigOption.java
+DynamicTableSource.java
+ProjectableDecodingFormat.java
+Path.java
+BulkDecodingFormat.java
+Key: WebOptions.java
+Values:
+PublicEvolving.java
+Key: ReplicateRowsFunction.java
+Values:
+Internal.java
+RowData.java
+Key: JobExceptionsInfoWithHistory.java
+Values:
+JobExceptionsHandler.java
+Key: PythonTableFunctionOperator.java
+Values:
+Projection.java
+PythonEnv.java
+BinaryRowData.java
+TypeSerializer.java
+TableFunction.java
+Internal.java
+Tuple3.java
+AbstractStatelessFunctionOperator.java
+Key: DecimalBigDecimalConverter.java
+Values:
+Internal.java
+Key: IntPairPairComparator.java
+Values:
+TypePairComparator.java
+Key: AllReduceProperties.java
+Values:
+RequestedGlobalProperties.java
+RequestedLocalProperties.java
+Costs.java

@@ -1,0 +1,18 @@
+Total unique entity count: 16071
+Common entity count: 4133
+Unique Understand Entity count: 306
+Unique jdep Entity count: 38
+Unique srcML Entity count: 2827
+Unique import Entity count: 159
+Understand dependencies Count: 120013
+jdep dependencies Count: 44080
+srcML dependencies Count: 67784
+import dependencies Count: 93195
+Total unique dependencies Count: 135116
+Total common dependencies Count: 48753
+Understand uniquely extracted 26951 dependencies over 9425 entities.
+srcML uniquely extracted 10629 dependencies over 4300 entities.
+import uniquely extracted 2663 dependencies over 1194 entities.
+Understand AND srcML excluding Common 4974
+Understand AND import excluding Common  38115
+import AND srcML excluding Common 3031
